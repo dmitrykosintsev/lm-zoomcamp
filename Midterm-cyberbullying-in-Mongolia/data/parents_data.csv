@@ -1,0 +1,1636 @@
+id,type,age_group,internet_control,knows_facebook_age_req,aware_of_child_cyberbullying,concerns_about_device_use,digital_literacy,communicates_about_safety,child_age_group
+P0001,Parent,35-44,Yes,False,Unsure,None,Low,False,13-17
+P0002,Parent,45-54,Yes,True,Unsure,Insomnia; Academic Performance,Medium,True,9-12
+P0003,Parent,45-54,Yes,True,No,Insomnia,High,True,13-17
+P0004,Parent,45-54,Want to but struggle,True,No,Academic Performance; Depression,Low,True,9-12
+P0005,Parent,25-34,Yes,False,Unsure,Academic Performance,Medium,True,9-12
+P0006,Parent,35-44,Yes,True,Unsure,None,High,True,13-17
+P0007,Parent,25-34,Want to but struggle,False,No,Depression,Low,False,9-12
+P0008,Parent,25-34,Yes,False,No,Depression,Low,False,13-17
+P0009,Parent,35-44,Want to but struggle,True,Yes,Insomnia,Low,False,13-17
+P0010,Parent,35-44,Yes,True,No,Depression,Medium,True,13-17
+P0011,Parent,35-44,Want to but struggle,True,No,Insomnia; Depression,Medium,False,13-17
+P0012,Parent,35-44,Want to but struggle,True,No,Eating Disorders,Medium,False,9-12
+P0013,Parent,45-54,Want to but struggle,True,Unsure,Insomnia,Medium,False,13-17
+P0014,Parent,35-44,Yes,True,No,Insomnia,High,False,13-17
+P0015,Parent,45-54,Yes,True,No,None,Medium,True,13-17
+P0016,Parent,35-44,Yes,True,No,Academic Performance,High,True,13-17
+P0017,Parent,25-34,Want to but struggle,False,No,None,Low,True,9-12
+P0018,Parent,25-34,Want to but struggle,True,No,None,Low,False,13-17
+P0019,Parent,35-44,Want to but struggle,True,No,None,Low,True,9-12
+P0020,Parent,35-44,Want to but struggle,True,No,Academic Performance,Medium,True,13-17
+P0021,Parent,25-34,Want to but struggle,False,No,Insomnia,Low,False,9-12
+P0022,Parent,35-44,Yes,True,No,None,High,False,13-17
+P0023,Parent,45-54,Yes,True,No,Eating Disorders,Medium,False,9-12
+P0024,Parent,35-44,Want to but struggle,False,No,Insomnia; Academic Performance; Eating Disorders,Medium,True,13-17
+P0025,Parent,25-34,Want to but struggle,True,No,None,Low,True,13-17
+P0026,Parent,35-44,Yes,True,No,Academic Performance; Eating Disorders,High,False,13-17
+P0027,Parent,35-44,Want to but struggle,True,No,Insomnia,Low,True,9-12
+P0028,Parent,35-44,Want to but struggle,True,Yes,Academic Performance; Eating Disorders,Low,False,9-12
+P0029,Parent,45-54,Want to but struggle,False,No,Eating Disorders,Medium,True,13-17
+P0030,Parent,35-44,Want to but struggle,False,No,Eating Disorders,Low,True,13-17
+P0031,Parent,35-44,Yes,False,No,Academic Performance,Low,True,13-17
+P0032,Parent,35-44,Yes,True,No,Depression,Medium,True,13-17
+P0033,Parent,45-54,Yes,False,No,Academic Performance,Low,True,13-17
+P0034,Parent,45-54,No,False,Unsure,Academic Performance; Depression; Eating Disorders,Medium,False,13-17
+P0035,Parent,45-54,No,False,Unsure,Insomnia,Medium,True,13-17
+P0036,Parent,35-44,No,True,No,Insomnia,Medium,False,13-17
+P0037,Parent,35-44,No,True,Unsure,Insomnia,Low,False,13-17
+P0038,Parent,35-44,Yes,False,No,Insomnia; Aggression,Low,True,13-17
+P0039,Parent,25-34,Yes,True,Unsure,None,Medium,False,13-17
+P0040,Parent,35-44,Yes,True,Yes,Eating Disorders; Aggression,Medium,True,13-17
+P0041,Parent,35-44,Yes,True,No,Insomnia; Academic Performance,Medium,True,9-12
+P0042,Parent,35-44,Want to but struggle,True,Unsure,Insomnia; Academic Performance; Eating Disorders,Low,False,13-17
+P0043,Parent,35-44,Want to but struggle,True,No,Insomnia; Depression,Low,True,9-12
+P0044,Parent,25-34,Yes,True,No,Insomnia; Academic Performance; Eating Disorders,Medium,True,13-17
+P0045,Parent,35-44,Yes,True,No,Insomnia; Academic Performance,High,False,13-17
+P0046,Parent,35-44,Want to but struggle,True,Yes,Eating Disorders,Medium,True,13-17
+P0047,Parent,35-44,Yes,False,Unsure,Insomnia; Academic Performance,Medium,False,13-17
+P0048,Parent,25-34,Yes,True,Unsure,None,Medium,False,13-17
+P0049,Parent,35-44,Yes,True,No,Depression,High,True,13-17
+P0050,Parent,45-54,Want to but struggle,False,No,Academic Performance; Depression,Medium,True,9-12
+P0051,Parent,45-54,Yes,True,No,Academic Performance; Depression,Medium,True,13-17
+P0052,Parent,45-54,Yes,False,No,None,Low,False,13-17
+P0053,Parent,35-44,Yes,True,Unsure,Eating Disorders; Aggression,Medium,False,13-17
+P0054,Parent,45-54,No,True,Unsure,Academic Performance,Low,True,9-12
+P0055,Parent,25-34,Want to but struggle,True,No,None,Low,False,13-17
+P0056,Parent,35-44,Want to but struggle,False,Unsure,Insomnia; Academic Performance,Medium,True,9-12
+P0057,Parent,35-44,Want to but struggle,True,No,None,Medium,True,9-12
+P0058,Parent,35-44,Want to but struggle,True,No,Eating Disorders,Low,True,13-17
+P0059,Parent,45-54,Yes,False,Unsure,Insomnia; Academic Performance; Depression,Low,True,13-17
+P0060,Parent,35-44,Yes,False,Unsure,Insomnia,Low,True,13-17
+P0061,Parent,35-44,Want to but struggle,True,Unsure,Depression,Medium,True,13-17
+P0062,Parent,35-44,Yes,True,No,Academic Performance,High,False,9-12
+P0063,Parent,35-44,Yes,False,Unsure,None,Medium,False,13-17
+P0064,Parent,35-44,Yes,True,Unsure,None,High,True,13-17
+P0065,Parent,45-54,Want to but struggle,False,Unsure,Insomnia,Low,True,13-17
+P0066,Parent,35-44,Yes,True,Unsure,Insomnia; Academic Performance,Medium,True,13-17
+P0067,Parent,25-34,Yes,False,No,Academic Performance,Low,False,9-12
+P0068,Parent,35-44,Want to but struggle,False,No,Academic Performance,Low,True,9-12
+P0069,Parent,35-44,Yes,True,No,Insomnia; Eating Disorders,High,True,13-17
+P0070,Parent,45-54,Yes,False,No,None,Low,False,13-17
+P0071,Parent,25-34,Yes,False,No,None,Low,False,9-12
+P0072,Parent,35-44,Yes,False,Unsure,None,Low,False,9-12
+P0073,Parent,35-44,Yes,True,No,Depression; Eating Disorders,Medium,False,13-17
+P0074,Parent,45-54,Yes,True,Unsure,Eating Disorders,Medium,True,13-17
+P0075,Parent,35-44,Want to but struggle,True,No,Insomnia; Depression; Aggression,Low,True,9-12
+P0076,Parent,35-44,Yes,False,No,Eating Disorders,Medium,True,13-17
+P0077,Parent,35-44,Yes,False,Unsure,Insomnia,Low,False,13-17
+P0078,Parent,35-44,Want to but struggle,True,No,Insomnia; Academic Performance,Medium,True,13-17
+P0079,Parent,35-44,Yes,False,No,Academic Performance,Low,True,13-17
+P0080,Parent,45-54,Want to but struggle,False,Unsure,Aggression,Low,False,9-12
+P0081,Parent,45-54,Want to but struggle,True,No,Insomnia,Low,False,13-17
+P0082,Parent,45-54,Yes,True,No,Insomnia; Eating Disorders,High,False,9-12
+P0083,Parent,45-54,Yes,False,No,Insomnia; Academic Performance,Low,True,13-17
+P0084,Parent,35-44,No,False,Unsure,Insomnia; Academic Performance; Eating Disorders,Medium,True,13-17
+P0085,Parent,25-34,Yes,True,No,Academic Performance,High,False,13-17
+P0086,Parent,35-44,Yes,True,No,Academic Performance,High,True,9-12
+P0087,Parent,35-44,Yes,True,No,None,Medium,False,13-17
+P0088,Parent,45-54,Yes,True,No,Academic Performance; Eating Disorders; Aggression,High,False,13-17
+P0089,Parent,45-54,Want to but struggle,False,No,None,Medium,False,13-17
+P0090,Parent,45-54,Want to but struggle,True,No,Insomnia; Depression,Medium,True,9-12
+P0091,Parent,35-44,Yes,True,No,Academic Performance; Eating Disorders,High,False,9-12
+P0092,Parent,35-44,Want to but struggle,True,No,Insomnia; Depression,Low,True,13-17
+P0093,Parent,25-34,Want to but struggle,True,No,None,Low,False,9-12
+P0094,Parent,25-34,Want to but struggle,True,Unsure,Insomnia; Depression,Low,False,13-17
+P0095,Parent,35-44,Yes,False,Yes,Eating Disorders,Low,False,13-17
+P0096,Parent,25-34,Yes,False,No,None,Medium,False,13-17
+P0097,Parent,45-54,Want to but struggle,False,Unsure,Insomnia; Depression,Low,True,9-12
+P0098,Parent,35-44,Yes,True,No,None,Medium,False,13-17
+P0099,Parent,45-54,Yes,False,No,Academic Performance; Depression; Eating Disorders,Low,False,13-17
+P0100,Parent,45-54,Want to but struggle,False,Unsure,None,Low,True,13-17
+P0101,Parent,35-44,Want to but struggle,False,Unsure,Academic Performance; Aggression,Low,False,13-17
+P0102,Parent,35-44,Want to but struggle,True,No,Insomnia,Medium,True,13-17
+P0103,Parent,35-44,Yes,True,No,None,Medium,True,13-17
+P0104,Parent,35-44,Want to but struggle,False,No,Depression,Low,False,13-17
+P0105,Parent,35-44,No,False,No,Eating Disorders,Low,False,13-17
+P0106,Parent,35-44,Yes,True,Unsure,Academic Performance; Depression; Aggression,Medium,True,9-12
+P0107,Parent,35-44,Yes,True,No,Academic Performance; Depression,Medium,False,13-17
+P0108,Parent,45-54,Want to but struggle,True,No,Insomnia,Low,True,13-17
+P0109,Parent,35-44,Yes,True,Unsure,Insomnia,Medium,True,13-17
+P0110,Parent,35-44,No,True,No,None,Medium,False,9-12
+P0111,Parent,45-54,Yes,True,No,Eating Disorders,Medium,False,13-17
+P0112,Parent,45-54,Want to but struggle,True,Unsure,None,Low,False,13-17
+P0113,Parent,35-44,Want to but struggle,True,Unsure,Insomnia; Academic Performance,Low,False,9-12
+P0114,Parent,45-54,Yes,False,No,Academic Performance,Medium,False,13-17
+P0115,Parent,35-44,Yes,True,No,Academic Performance,Medium,False,13-17
+P0116,Parent,25-34,Want to but struggle,True,No,Academic Performance,Low,True,13-17
+P0117,Parent,45-54,Yes,True,Unsure,None,Medium,True,9-12
+P0118,Parent,35-44,Want to but struggle,True,No,Academic Performance,Low,False,13-17
+P0119,Parent,45-54,Want to but struggle,False,No,Academic Performance; Depression,Medium,False,13-17
+P0120,Parent,45-54,Yes,False,No,Insomnia,Low,False,13-17
+P0121,Parent,55+,Yes,False,Yes,Insomnia; Academic Performance,Low,True,13-17
+P0122,Parent,35-44,Yes,False,Unsure,Insomnia; Academic Performance,Medium,True,13-17
+P0123,Parent,35-44,Yes,True,No,None,High,True,13-17
+P0124,Parent,35-44,Want to but struggle,True,Unsure,None,Medium,False,13-17
+P0125,Parent,35-44,Want to but struggle,False,Unsure,None,Medium,True,9-12
+P0126,Parent,35-44,Want to but struggle,True,Unsure,Academic Performance; Eating Disorders,Low,True,13-17
+P0127,Parent,45-54,Want to but struggle,True,No,Eating Disorders; Aggression,Medium,True,13-17
+P0128,Parent,25-34,Want to but struggle,True,Unsure,Insomnia; Academic Performance; Eating Disorders,Low,True,13-17
+P0129,Parent,35-44,Want to but struggle,True,No,Academic Performance; Eating Disorders,Medium,False,13-17
+P0130,Parent,35-44,Yes,False,Unsure,None,Low,False,9-12
+P0131,Parent,45-54,Yes,False,Unsure,Academic Performance,Medium,True,13-17
+P0132,Parent,35-44,Yes,False,Unsure,Insomnia; Depression,Low,False,13-17
+P0133,Parent,35-44,Yes,True,No,Academic Performance; Depression; Eating Disorders; Aggression,Medium,True,9-12
+P0134,Parent,35-44,Yes,True,No,None,High,False,9-12
+P0135,Parent,35-44,Want to but struggle,True,No,Academic Performance,Low,False,13-17
+P0136,Parent,45-54,Yes,True,No,Depression,Medium,True,13-17
+P0137,Parent,35-44,Want to but struggle,True,No,Depression,Low,False,13-17
+P0138,Parent,45-54,Yes,True,No,Depression; Aggression,High,True,13-17
+P0139,Parent,45-54,Yes,False,No,Depression,Low,False,9-12
+P0140,Parent,45-54,No,False,No,Academic Performance,Low,True,13-17
+P0141,Parent,35-44,No,True,No,Insomnia; Academic Performance; Eating Disorders,Low,True,9-12
+P0142,Parent,45-54,Yes,True,Unsure,None,Medium,True,13-17
+P0143,Parent,35-44,Yes,False,Unsure,Depression,Low,True,13-17
+P0144,Parent,35-44,No,True,No,None,Low,True,13-17
+P0145,Parent,45-54,Want to but struggle,True,No,Aggression,Medium,True,13-17
+P0146,Parent,35-44,Yes,True,Unsure,None,Medium,False,13-17
+P0147,Parent,35-44,Yes,True,No,Academic Performance,High,True,13-17
+P0148,Parent,35-44,Yes,True,No,Insomnia,High,True,13-17
+P0149,Parent,35-44,Yes,False,Unsure,None,Medium,True,9-12
+P0150,Parent,35-44,Yes,True,No,None,Medium,False,13-17
+P0151,Parent,45-54,Yes,True,Unsure,Academic Performance,High,False,9-12
+P0152,Parent,35-44,No,False,Unsure,Academic Performance; Aggression,Low,True,13-17
+P0153,Parent,55+,Yes,True,Unsure,Eating Disorders,Medium,True,13-17
+P0154,Parent,45-54,Yes,True,No,Insomnia; Academic Performance,Medium,False,9-12
+P0155,Parent,35-44,Want to but struggle,False,No,None,Medium,False,9-12
+P0156,Parent,45-54,Yes,True,Unsure,Academic Performance,Medium,False,9-12
+P0157,Parent,35-44,Yes,False,No,None,Medium,False,13-17
+P0158,Parent,35-44,Want to but struggle,True,No,None,Medium,True,13-17
+P0159,Parent,35-44,Yes,False,No,None,Low,False,13-17
+P0160,Parent,35-44,No,True,No,Insomnia; Academic Performance; Eating Disorders,Medium,True,13-17
+P0161,Parent,35-44,Yes,True,No,Academic Performance,Medium,True,13-17
+P0162,Parent,35-44,Want to but struggle,True,Unsure,Insomnia; Eating Disorders,Low,True,13-17
+P0163,Parent,35-44,Want to but struggle,True,Unsure,Depression,Low,False,13-17
+P0164,Parent,35-44,Yes,False,Unsure,Insomnia; Eating Disorders; Aggression,Low,True,9-12
+P0165,Parent,35-44,No,False,No,Eating Disorders,Low,True,13-17
+P0166,Parent,35-44,Want to but struggle,True,Yes,None,Low,False,13-17
+P0167,Parent,35-44,Want to but struggle,True,Unsure,Insomnia; Eating Disorders,Low,False,9-12
+P0168,Parent,45-54,Want to but struggle,True,Unsure,Insomnia; Eating Disorders,Medium,False,13-17
+P0169,Parent,35-44,Want to but struggle,True,Yes,Insomnia; Academic Performance; Depression; Eating Disorders,Low,True,9-12
+P0170,Parent,35-44,Yes,True,No,Academic Performance; Depression,High,False,13-17
+P0171,Parent,35-44,No,True,No,Academic Performance; Eating Disorders,Low,True,13-17
+P0172,Parent,45-54,Yes,True,Unsure,None,High,False,13-17
+P0173,Parent,35-44,Want to but struggle,True,Unsure,None,Medium,False,9-12
+P0174,Parent,55+,Want to but struggle,True,No,None,Medium,True,13-17
+P0175,Parent,45-54,Yes,True,Unsure,Academic Performance,Medium,True,13-17
+P0176,Parent,25-34,Yes,False,Unsure,Academic Performance; Depression,Medium,True,13-17
+P0177,Parent,25-34,Yes,True,No,Academic Performance; Eating Disorders,Medium,True,9-12
+P0178,Parent,35-44,Want to but struggle,False,Unsure,None,Medium,False,9-12
+P0179,Parent,35-44,Want to but struggle,False,No,Academic Performance,Medium,True,9-12
+P0180,Parent,35-44,Yes,False,No,None,Low,True,9-12
+P0181,Parent,35-44,Yes,False,No,Insomnia; Academic Performance; Depression,Medium,False,9-12
+P0182,Parent,55+,Yes,False,No,Insomnia; Depression,Low,False,9-12
+P0183,Parent,25-34,Want to but struggle,True,No,Depression,Low,False,13-17
+P0184,Parent,35-44,Yes,True,No,Depression; Eating Disorders; Aggression,High,False,13-17
+P0185,Parent,35-44,Yes,False,Unsure,Academic Performance,Low,True,9-12
+P0186,Parent,35-44,Want to but struggle,False,No,Insomnia; Academic Performance,Low,False,13-17
+P0187,Parent,25-34,Yes,True,No,None,High,True,9-12
+P0188,Parent,45-54,Want to but struggle,False,Unsure,Eating Disorders,Medium,True,9-12
+P0189,Parent,55+,Yes,True,No,None,Medium,True,9-12
+P0190,Parent,35-44,Yes,False,No,Depression,Low,True,13-17
+P0191,Parent,25-34,Yes,True,No,Depression,Medium,True,13-17
+P0192,Parent,45-54,Yes,True,No,Eating Disorders,High,False,13-17
+P0193,Parent,45-54,Yes,False,Unsure,Insomnia,Low,False,13-17
+P0194,Parent,35-44,Yes,True,No,Academic Performance,Medium,False,9-12
+P0195,Parent,35-44,Yes,False,No,Depression; Eating Disorders,Low,True,13-17
+P0196,Parent,35-44,Want to but struggle,False,No,None,Low,False,13-17
+P0197,Parent,25-34,Want to but struggle,False,Unsure,Insomnia; Eating Disorders,Low,True,13-17
+P0198,Parent,35-44,Want to but struggle,True,No,Insomnia,Medium,False,13-17
+P0199,Parent,35-44,Want to but struggle,False,No,Academic Performance,Low,False,13-17
+P0200,Parent,45-54,Want to but struggle,True,No,Insomnia; Depression,Low,True,13-17
+P0201,Parent,45-54,Yes,True,Unsure,Academic Performance,Medium,True,9-12
+P0202,Parent,35-44,Want to but struggle,True,Unsure,None,Medium,False,9-12
+P0203,Parent,35-44,Yes,False,No,Academic Performance,Medium,False,13-17
+P0204,Parent,45-54,Yes,True,Unsure,Depression,Medium,True,13-17
+P0205,Parent,35-44,No,False,No,Academic Performance; Aggression,Medium,True,13-17
+P0206,Parent,45-54,Want to but struggle,True,Unsure,Eating Disorders,Low,False,13-17
+P0207,Parent,35-44,Yes,False,No,Insomnia; Depression,Low,True,13-17
+P0208,Parent,35-44,Yes,False,No,Depression,Medium,True,13-17
+P0209,Parent,35-44,Yes,True,Unsure,Aggression,High,False,13-17
+P0210,Parent,35-44,Want to but struggle,True,No,Academic Performance,Low,False,9-12
+P0211,Parent,35-44,Yes,True,Unsure,Insomnia; Academic Performance; Eating Disorders,High,True,13-17
+P0212,Parent,45-54,Want to but struggle,True,Unsure,Academic Performance; Depression,Low,True,13-17
+P0213,Parent,35-44,Yes,True,No,Academic Performance; Depression,High,False,13-17
+P0214,Parent,35-44,Yes,True,No,Insomnia,Medium,True,9-12
+P0215,Parent,55+,No,True,Unsure,None,Low,True,13-17
+P0216,Parent,35-44,Want to but struggle,True,Yes,Academic Performance,Low,True,13-17
+P0217,Parent,35-44,Yes,True,Yes,Academic Performance,Medium,False,13-17
+P0218,Parent,25-34,Want to but struggle,False,Unsure,None,Low,False,9-12
+P0219,Parent,35-44,Want to but struggle,False,Unsure,Insomnia; Depression,Low,False,13-17
+P0220,Parent,35-44,Want to but struggle,True,No,None,Low,False,9-12
+P0221,Parent,35-44,Yes,True,No,Academic Performance,Medium,False,13-17
+P0222,Parent,35-44,Want to but struggle,True,No,Academic Performance,Low,True,13-17
+P0223,Parent,35-44,Yes,False,Unsure,Academic Performance,Low,False,13-17
+P0224,Parent,45-54,Want to but struggle,False,Unsure,None,Medium,True,13-17
+P0225,Parent,45-54,Yes,True,No,Insomnia; Academic Performance,Medium,True,13-17
+P0226,Parent,45-54,Yes,False,No,Depression,Low,False,13-17
+P0227,Parent,45-54,Want to but struggle,True,No,Depression,Medium,False,9-12
+P0228,Parent,25-34,Want to but struggle,True,No,Aggression,Low,False,9-12
+P0229,Parent,45-54,Yes,True,No,Insomnia,High,False,13-17
+P0230,Parent,35-44,Yes,True,No,None,Medium,True,9-12
+P0231,Parent,35-44,Want to but struggle,False,No,Insomnia,Medium,False,13-17
+P0232,Parent,35-44,Want to but struggle,True,Unsure,Insomnia; Depression,Medium,False,13-17
+P0233,Parent,45-54,Yes,False,Unsure,Eating Disorders,Low,True,9-12
+P0234,Parent,35-44,Want to but struggle,True,No,Insomnia,Low,True,9-12
+P0235,Parent,45-54,Yes,False,Yes,Insomnia,Low,False,13-17
+P0236,Parent,45-54,Yes,True,No,Insomnia; Depression,Medium,True,13-17
+P0237,Parent,35-44,Yes,True,Unsure,Eating Disorders,Medium,False,9-12
+P0238,Parent,55+,Want to but struggle,True,Unsure,Academic Performance; Aggression,Low,False,13-17
+P0239,Parent,45-54,Yes,False,No,Insomnia,Low,True,9-12
+P0240,Parent,35-44,Yes,True,Unsure,Insomnia; Aggression,Medium,True,13-17
+P0241,Parent,35-44,Yes,True,Unsure,Insomnia,High,False,13-17
+P0242,Parent,45-54,Yes,True,Unsure,Eating Disorders,Medium,False,9-12
+P0243,Parent,25-34,Yes,True,No,Insomnia; Eating Disorders; Aggression,Medium,True,13-17
+P0244,Parent,45-54,Yes,False,Unsure,Depression,Medium,False,9-12
+P0245,Parent,25-34,Yes,False,Unsure,None,Low,True,13-17
+P0246,Parent,35-44,Want to but struggle,False,No,Insomnia; Depression,Medium,True,9-12
+P0247,Parent,35-44,Want to but struggle,True,Unsure,Academic Performance; Eating Disorders,Low,False,13-17
+P0248,Parent,35-44,Want to but struggle,True,Unsure,Insomnia; Academic Performance,Low,False,13-17
+P0249,Parent,35-44,Yes,True,No,Insomnia,High,True,13-17
+P0250,Parent,35-44,Yes,False,No,Academic Performance; Eating Disorders,Low,False,13-17
+P0251,Parent,25-34,Want to but struggle,True,Unsure,None,Low,False,13-17
+P0252,Parent,45-54,No,True,No,Insomnia; Aggression,Low,False,9-12
+P0253,Parent,35-44,Want to but struggle,True,Unsure,Insomnia; Eating Disorders,Medium,False,13-17
+P0254,Parent,45-54,Want to but struggle,True,No,Insomnia,Low,False,13-17
+P0255,Parent,45-54,Want to but struggle,True,Unsure,None,Medium,True,13-17
+P0256,Parent,35-44,Yes,False,No,Insomnia; Academic Performance,Low,False,9-12
+P0257,Parent,35-44,Want to but struggle,True,Unsure,Insomnia; Depression,Medium,True,13-17
+P0258,Parent,45-54,Yes,False,Unsure,Insomnia; Academic Performance,Medium,False,9-12
+P0259,Parent,35-44,Want to but struggle,False,Unsure,Insomnia,Low,False,13-17
+P0260,Parent,25-34,Want to but struggle,True,No,Insomnia; Depression; Eating Disorders,Low,True,9-12
+P0261,Parent,45-54,Yes,True,Unsure,Eating Disorders,Medium,False,13-17
+P0262,Parent,45-54,Yes,True,No,Academic Performance; Eating Disorders; Aggression,Medium,False,13-17
+P0263,Parent,35-44,Want to but struggle,True,Unsure,None,Medium,False,13-17
+P0264,Parent,35-44,Yes,True,Yes,None,Medium,True,13-17
+P0265,Parent,45-54,Yes,True,No,Academic Performance,Medium,False,13-17
+P0266,Parent,35-44,Yes,True,Unsure,Eating Disorders,High,False,13-17
+P0267,Parent,45-54,Yes,False,Unsure,None,Low,True,9-12
+P0268,Parent,35-44,Want to but struggle,False,Unsure,None,Medium,False,13-17
+P0269,Parent,35-44,Yes,False,No,Depression; Eating Disorders,Low,False,13-17
+P0270,Parent,35-44,Want to but struggle,True,No,None,Low,False,13-17
+P0271,Parent,45-54,Want to but struggle,True,No,Insomnia; Academic Performance; Depression; Eating Disorders,Low,True,9-12
+P0272,Parent,35-44,Want to but struggle,False,Unsure,Academic Performance,Medium,True,13-17
+P0273,Parent,35-44,Want to but struggle,True,No,Depression,Low,True,13-17
+P0274,Parent,45-54,Want to but struggle,True,No,Insomnia; Depression; Eating Disorders,Medium,True,13-17
+P0275,Parent,35-44,Yes,False,No,Insomnia,Low,True,9-12
+P0276,Parent,35-44,Want to but struggle,True,No,None,Medium,False,13-17
+P0277,Parent,25-34,Want to but struggle,False,No,None,Low,True,13-17
+P0278,Parent,35-44,Yes,False,No,Academic Performance,Medium,False,13-17
+P0279,Parent,45-54,Yes,False,No,None,Low,False,9-12
+P0280,Parent,25-34,Yes,True,No,Aggression,High,True,9-12
+P0281,Parent,35-44,Want to but struggle,True,Yes,Depression,Low,False,9-12
+P0282,Parent,35-44,Want to but struggle,True,No,Academic Performance; Eating Disorders,Low,False,13-17
+P0283,Parent,35-44,Want to but struggle,True,Unsure,None,Low,False,13-17
+P0284,Parent,35-44,Yes,False,No,Academic Performance,Medium,False,13-17
+P0285,Parent,25-34,Yes,True,Unsure,None,Medium,True,13-17
+P0286,Parent,35-44,Yes,True,No,Insomnia,Medium,False,13-17
+P0287,Parent,35-44,Yes,True,Unsure,None,High,False,9-12
+P0288,Parent,35-44,Yes,False,No,Academic Performance; Eating Disorders,Low,True,13-17
+P0289,Parent,25-34,Yes,False,Unsure,Academic Performance,Low,True,13-17
+P0290,Parent,45-54,Want to but struggle,False,Unsure,None,Medium,True,13-17
+P0291,Parent,45-54,Yes,True,No,Eating Disorders,Medium,False,13-17
+P0292,Parent,35-44,Yes,False,Unsure,None,Low,False,13-17
+P0293,Parent,35-44,Want to but struggle,False,No,Academic Performance; Depression,Low,False,13-17
+P0294,Parent,35-44,Want to but struggle,False,No,Insomnia; Academic Performance; Depression,Low,True,13-17
+P0295,Parent,35-44,Yes,False,Unsure,Insomnia; Academic Performance,Low,False,9-12
+P0296,Parent,45-54,Yes,True,No,Academic Performance,High,False,13-17
+P0297,Parent,35-44,Want to but struggle,True,No,Academic Performance,Low,True,13-17
+P0298,Parent,35-44,Want to but struggle,True,No,Depression,Low,False,9-12
+P0299,Parent,35-44,Want to but struggle,True,No,Depression; Eating Disorders,Low,True,9-12
+P0300,Parent,25-34,Want to but struggle,True,No,None,Low,True,13-17
+P0301,Parent,45-54,Yes,False,No,Insomnia; Depression,Low,False,13-17
+P0302,Parent,35-44,Yes,False,No,None,Low,False,9-12
+P0303,Parent,35-44,Want to but struggle,False,No,None,Low,False,13-17
+P0304,Parent,25-34,Yes,True,No,Insomnia; Academic Performance,Medium,False,9-12
+P0305,Parent,25-34,Yes,False,No,Academic Performance,Low,False,13-17
+P0306,Parent,35-44,Yes,True,Unsure,Insomnia,High,True,9-12
+P0307,Parent,35-44,Yes,False,Unsure,Eating Disorders,Low,True,13-17
+P0308,Parent,45-54,Want to but struggle,True,No,Academic Performance,Low,False,9-12
+P0309,Parent,35-44,No,False,No,None,Medium,True,13-17
+P0310,Parent,55+,Yes,True,Unsure,Insomnia,Medium,True,13-17
+P0311,Parent,35-44,Yes,True,Unsure,Academic Performance; Eating Disorders,High,True,9-12
+P0312,Parent,35-44,No,False,No,Aggression,Medium,False,9-12
+P0313,Parent,25-34,Yes,True,No,Insomnia; Eating Disorders,Medium,False,9-12
+P0314,Parent,35-44,Yes,False,No,Insomnia; Academic Performance,Low,False,13-17
+P0315,Parent,45-54,Want to but struggle,True,Unsure,None,Low,True,9-12
+P0316,Parent,35-44,No,True,No,Academic Performance,Medium,False,9-12
+P0317,Parent,35-44,Yes,False,Unsure,Insomnia; Depression,Low,True,9-12
+P0318,Parent,35-44,Yes,False,No,None,Low,True,13-17
+P0319,Parent,35-44,Yes,True,Unsure,Academic Performance,Medium,True,13-17
+P0320,Parent,45-54,No,True,Unsure,Depression,Low,True,13-17
+P0321,Parent,45-54,Want to but struggle,False,No,None,Low,False,13-17
+P0322,Parent,35-44,Want to but struggle,True,No,Depression,Medium,True,13-17
+P0323,Parent,35-44,Want to but struggle,True,Unsure,Academic Performance,Low,False,9-12
+P0324,Parent,45-54,No,True,Unsure,Insomnia; Depression,Medium,True,13-17
+P0325,Parent,35-44,Yes,True,No,Academic Performance,Medium,True,13-17
+P0326,Parent,35-44,Yes,True,No,Insomnia; Aggression,Medium,True,13-17
+P0327,Parent,35-44,Want to but struggle,True,Yes,Academic Performance; Eating Disorders,Medium,True,9-12
+P0328,Parent,35-44,Yes,True,No,Insomnia,High,True,9-12
+P0329,Parent,45-54,Yes,False,No,Academic Performance; Aggression,Medium,False,13-17
+P0330,Parent,25-34,Want to but struggle,False,No,None,Low,True,13-17
+P0331,Parent,25-34,Yes,False,Unsure,Insomnia,Low,True,13-17
+P0332,Parent,25-34,Want to but struggle,True,No,None,Low,False,13-17
+P0333,Parent,35-44,Want to but struggle,True,Unsure,Insomnia; Academic Performance,Low,True,9-12
+P0334,Parent,35-44,Want to but struggle,False,Unsure,None,Low,True,13-17
+P0335,Parent,45-54,Want to but struggle,True,No,Depression,Low,False,13-17
+P0336,Parent,35-44,Yes,True,Unsure,Academic Performance,Medium,True,13-17
+P0337,Parent,35-44,Yes,True,No,Academic Performance,Medium,True,13-17
+P0338,Parent,35-44,Want to but struggle,True,No,Depression,Medium,False,9-12
+P0339,Parent,35-44,Want to but struggle,False,No,Insomnia,Low,True,9-12
+P0340,Parent,25-34,Want to but struggle,False,Unsure,None,Low,False,9-12
+P0341,Parent,35-44,Yes,True,Unsure,Insomnia; Eating Disorders,Medium,False,13-17
+P0342,Parent,45-54,Want to but struggle,True,No,Insomnia; Eating Disorders,Low,False,13-17
+P0343,Parent,45-54,Want to but struggle,False,Unsure,Academic Performance; Depression; Eating Disorders,Low,False,13-17
+P0344,Parent,35-44,Yes,True,No,Depression; Eating Disorders,Medium,False,9-12
+P0345,Parent,35-44,Want to but struggle,True,Yes,Eating Disorders,Low,True,9-12
+P0346,Parent,35-44,Yes,False,No,Depression,Medium,False,9-12
+P0347,Parent,35-44,Want to but struggle,False,Unsure,None,Low,False,13-17
+P0348,Parent,45-54,Yes,True,No,Insomnia; Academic Performance,Medium,True,13-17
+P0349,Parent,35-44,Yes,False,No,None,Medium,True,13-17
+P0350,Parent,35-44,Want to but struggle,True,No,None,Low,False,13-17
+P0351,Parent,35-44,Want to but struggle,False,No,Eating Disorders,Medium,True,13-17
+P0352,Parent,45-54,Want to but struggle,True,No,None,Medium,False,13-17
+P0353,Parent,25-34,Yes,True,Unsure,Academic Performance; Aggression,Medium,True,13-17
+P0354,Parent,45-54,Want to but struggle,True,No,Aggression,Low,True,13-17
+P0355,Parent,35-44,Want to but struggle,True,No,Insomnia,Low,True,13-17
+P0356,Parent,25-34,Want to but struggle,False,No,Insomnia; Academic Performance; Depression,Medium,False,9-12
+P0357,Parent,45-54,Want to but struggle,True,No,Insomnia,Low,False,13-17
+P0358,Parent,35-44,Want to but struggle,True,Yes,Depression; Eating Disorders,Low,False,9-12
+P0359,Parent,35-44,Want to but struggle,False,Unsure,Insomnia; Academic Performance; Depression; Eating Disorders,Medium,True,13-17
+P0360,Parent,45-54,No,False,Unsure,Academic Performance; Aggression,Medium,True,13-17
+P0361,Parent,35-44,Yes,True,Unsure,Academic Performance,High,False,13-17
+P0362,Parent,45-54,Want to but struggle,True,Unsure,Eating Disorders,Low,False,13-17
+P0363,Parent,25-34,Yes,True,No,Insomnia,Medium,True,13-17
+P0364,Parent,45-54,Want to but struggle,True,Unsure,Academic Performance,Medium,False,13-17
+P0365,Parent,25-34,Yes,True,Unsure,Academic Performance,Medium,False,13-17
+P0366,Parent,45-54,Yes,True,Yes,Insomnia,Medium,False,9-12
+P0367,Parent,35-44,No,False,No,Insomnia; Academic Performance; Aggression,Medium,True,9-12
+P0368,Parent,35-44,Yes,False,No,Insomnia; Depression,Medium,True,13-17
+P0369,Parent,35-44,Yes,True,No,Academic Performance; Aggression,High,True,13-17
+P0370,Parent,35-44,Yes,True,No,Eating Disorders,Medium,False,9-12
+P0371,Parent,25-34,Yes,True,No,None,High,True,13-17
+P0372,Parent,35-44,Yes,True,No,Insomnia; Aggression,High,True,13-17
+P0373,Parent,25-34,Yes,True,Unsure,None,High,False,9-12
+P0374,Parent,35-44,Yes,False,Unsure,Insomnia,Medium,True,13-17
+P0375,Parent,35-44,Yes,True,Unsure,Insomnia; Academic Performance,Medium,True,13-17
+P0376,Parent,35-44,Yes,False,No,None,Low,False,13-17
+P0377,Parent,35-44,Yes,False,No,Academic Performance,Low,False,9-12
+P0378,Parent,35-44,Want to but struggle,False,No,None,Medium,False,13-17
+P0379,Parent,45-54,Want to but struggle,False,No,None,Low,True,13-17
+P0380,Parent,45-54,Yes,True,Unsure,None,High,False,13-17
+P0381,Parent,45-54,Yes,True,No,Insomnia; Academic Performance,Medium,False,9-12
+P0382,Parent,45-54,Yes,True,Unsure,Eating Disorders,High,False,13-17
+P0383,Parent,45-54,Yes,True,Unsure,None,Medium,True,13-17
+P0384,Parent,35-44,Want to but struggle,True,Unsure,Insomnia; Academic Performance,Medium,True,9-12
+P0385,Parent,35-44,Yes,False,No,Academic Performance,Low,False,9-12
+P0386,Parent,35-44,No,False,No,Insomnia; Depression,Medium,True,13-17
+P0387,Parent,35-44,Yes,True,No,Eating Disorders,High,False,9-12
+P0388,Parent,45-54,Want to but struggle,True,No,None,Low,False,9-12
+P0389,Parent,35-44,Yes,False,No,None,Medium,False,9-12
+P0390,Parent,35-44,No,True,No,Insomnia; Eating Disorders; Aggression,Low,True,9-12
+P0391,Parent,45-54,Yes,False,No,None,Low,False,13-17
+P0392,Parent,55+,Yes,False,Unsure,Insomnia,Low,False,13-17
+P0393,Parent,25-34,Yes,False,No,Insomnia,Low,True,13-17
+P0394,Parent,45-54,Want to but struggle,True,No,None,Medium,False,13-17
+P0395,Parent,45-54,Yes,False,No,Academic Performance; Eating Disorders,Low,False,13-17
+P0396,Parent,45-54,Want to but struggle,False,No,Insomnia,Low,False,13-17
+P0397,Parent,25-34,Yes,False,No,Insomnia; Depression,Medium,False,13-17
+P0398,Parent,35-44,Want to but struggle,True,Unsure,Insomnia; Academic Performance,Low,True,13-17
+P0399,Parent,45-54,Yes,True,No,Eating Disorders,High,False,9-12
+P0400,Parent,35-44,Yes,True,No,Depression,High,True,13-17
+P0401,Parent,35-44,Yes,True,No,Insomnia,High,False,13-17
+P0402,Parent,25-34,Yes,True,No,Aggression,Medium,False,9-12
+P0403,Parent,35-44,Yes,True,No,Academic Performance,High,True,13-17
+P0404,Parent,45-54,Want to but struggle,True,Unsure,Depression; Eating Disorders,Medium,True,13-17
+P0405,Parent,35-44,Yes,True,Unsure,Insomnia; Academic Performance,Medium,True,13-17
+P0406,Parent,35-44,Want to but struggle,True,No,Insomnia,Low,True,13-17
+P0407,Parent,35-44,Want to but struggle,False,No,None,Low,False,13-17
+P0408,Parent,45-54,Yes,True,Unsure,Insomnia; Depression,Medium,False,13-17
+P0409,Parent,35-44,Yes,True,Unsure,Insomnia; Depression,Medium,True,13-17
+P0410,Parent,35-44,Want to but struggle,True,No,None,Medium,False,9-12
+P0411,Parent,35-44,Yes,True,No,Eating Disorders; Aggression,Medium,True,13-17
+P0412,Parent,35-44,Want to but struggle,False,No,None,Low,True,13-17
+P0413,Parent,35-44,Yes,True,No,None,Medium,True,9-12
+P0414,Parent,35-44,Yes,True,Unsure,Insomnia; Eating Disorders,High,True,13-17
+P0415,Parent,45-54,Yes,False,No,None,Medium,False,13-17
+P0416,Parent,55+,Want to but struggle,False,No,Insomnia; Aggression,Low,True,13-17
+P0417,Parent,25-34,Yes,True,No,Depression; Aggression,Medium,False,13-17
+P0418,Parent,35-44,Yes,False,No,None,Medium,False,9-12
+P0419,Parent,45-54,Yes,True,No,Depression,Medium,False,13-17
+P0420,Parent,35-44,Want to but struggle,True,Unsure,Insomnia; Academic Performance,Low,False,13-17
+P0421,Parent,35-44,Yes,True,No,None,Medium,False,13-17
+P0422,Parent,25-34,Yes,True,No,None,Medium,False,9-12
+P0423,Parent,35-44,Yes,True,No,None,High,True,9-12
+P0424,Parent,45-54,Yes,False,Unsure,Insomnia,Low,False,13-17
+P0425,Parent,35-44,Yes,False,No,Depression,Low,True,9-12
+P0426,Parent,35-44,No,True,No,Insomnia; Academic Performance,Low,False,13-17
+P0427,Parent,35-44,Yes,True,No,None,Medium,False,13-17
+P0428,Parent,35-44,Yes,False,No,Academic Performance,Low,True,9-12
+P0429,Parent,45-54,Yes,True,No,Academic Performance,Medium,True,13-17
+P0430,Parent,35-44,Yes,True,Unsure,Aggression,High,False,9-12
+P0431,Parent,35-44,No,False,No,Insomnia,Medium,True,13-17
+P0432,Parent,35-44,Want to but struggle,True,Unsure,Insomnia; Depression,Medium,False,13-17
+P0433,Parent,35-44,No,True,Unsure,Insomnia,Low,True,9-12
+P0434,Parent,35-44,Yes,True,Unsure,Insomnia; Academic Performance,Medium,True,9-12
+P0435,Parent,45-54,Want to but struggle,False,Unsure,Depression,Medium,True,13-17
+P0436,Parent,35-44,Yes,False,Unsure,Academic Performance; Depression; Eating Disorders,Low,True,13-17
+P0437,Parent,35-44,Want to but struggle,False,No,Depression,Low,False,13-17
+P0438,Parent,45-54,Want to but struggle,False,Unsure,Aggression,Low,True,13-17
+P0439,Parent,45-54,No,True,Unsure,Academic Performance; Aggression,Low,False,9-12
+P0440,Parent,45-54,Want to but struggle,True,Unsure,Eating Disorders,Medium,False,9-12
+P0441,Parent,45-54,No,False,Unsure,None,Medium,True,13-17
+P0442,Parent,55+,Yes,False,Unsure,Depression,Low,True,13-17
+P0443,Parent,35-44,Want to but struggle,True,No,Insomnia; Academic Performance; Aggression,Low,True,13-17
+P0444,Parent,35-44,Yes,True,No,None,Medium,False,9-12
+P0445,Parent,35-44,No,True,Unsure,Depression,Medium,False,9-12
+P0446,Parent,25-34,Want to but struggle,True,Unsure,Depression; Eating Disorders,Low,False,13-17
+P0447,Parent,35-44,Want to but struggle,True,No,Academic Performance,Low,True,13-17
+P0448,Parent,45-54,Want to but struggle,False,Unsure,Depression,Medium,False,9-12
+P0449,Parent,45-54,Want to but struggle,False,Unsure,Academic Performance,Medium,True,13-17
+P0450,Parent,35-44,Want to but struggle,True,No,Academic Performance,Low,True,13-17
+P0451,Parent,25-34,Want to but struggle,True,No,Academic Performance,Low,False,13-17
+P0452,Parent,25-34,Yes,False,No,Insomnia; Academic Performance,Low,True,9-12
+P0453,Parent,35-44,Want to but struggle,False,No,None,Medium,True,13-17
+P0454,Parent,35-44,Want to but struggle,False,Unsure,Depression; Aggression,Low,True,9-12
+P0455,Parent,35-44,Want to but struggle,True,No,None,Low,True,13-17
+P0456,Parent,35-44,Want to but struggle,True,Unsure,Depression,Low,True,9-12
+P0457,Parent,55+,Want to but struggle,True,Unsure,None,Low,False,9-12
+P0458,Parent,45-54,Want to but struggle,False,No,Insomnia; Academic Performance; Depression,Low,False,9-12
+P0459,Parent,25-34,Yes,True,No,None,Medium,False,13-17
+P0460,Parent,35-44,Yes,True,Unsure,Insomnia,Medium,True,9-12
+P0461,Parent,35-44,Yes,False,Unsure,Academic Performance,Medium,False,13-17
+P0462,Parent,35-44,Yes,True,No,Insomnia; Eating Disorders,High,True,13-17
+P0463,Parent,45-54,Yes,False,No,None,Low,False,13-17
+P0464,Parent,45-54,Want to but struggle,False,No,Academic Performance; Eating Disorders,Low,True,9-12
+P0465,Parent,35-44,Want to but struggle,True,No,Insomnia,Medium,False,13-17
+P0466,Parent,45-54,Yes,False,Unsure,Insomnia; Academic Performance; Depression,Low,False,13-17
+P0467,Parent,45-54,Yes,True,Unsure,None,Medium,False,9-12
+P0468,Parent,35-44,No,True,Unsure,None,Low,True,13-17
+P0469,Parent,45-54,Want to but struggle,False,No,Academic Performance,Low,False,13-17
+P0470,Parent,35-44,Want to but struggle,True,Yes,None,Medium,True,13-17
+P0471,Parent,35-44,Yes,True,Unsure,Insomnia; Academic Performance; Depression,Medium,True,9-12
+P0472,Parent,35-44,Yes,True,No,None,High,True,9-12
+P0473,Parent,25-34,Want to but struggle,True,Unsure,Eating Disorders,Low,False,13-17
+P0474,Parent,45-54,Yes,True,Unsure,Academic Performance; Eating Disorders,High,False,9-12
+P0475,Parent,55+,Yes,True,No,Insomnia; Academic Performance,High,False,13-17
+P0476,Parent,35-44,Want to but struggle,False,No,None,Medium,True,13-17
+P0477,Parent,35-44,Yes,False,No,Academic Performance; Depression,Low,True,9-12
+P0478,Parent,45-54,No,True,No,Academic Performance,Low,False,9-12
+P0479,Parent,35-44,Want to but struggle,True,Unsure,Academic Performance; Depression,Low,False,9-12
+P0480,Parent,35-44,Yes,False,Unsure,Depression,Low,False,13-17
+P0481,Parent,35-44,No,True,Unsure,Insomnia,Low,False,9-12
+P0482,Parent,25-34,Want to but struggle,True,No,Eating Disorders,Low,False,13-17
+P0483,Parent,35-44,No,False,Unsure,Academic Performance; Eating Disorders,Medium,False,9-12
+P0484,Parent,45-54,Want to but struggle,True,No,None,Low,False,13-17
+P0485,Parent,35-44,Yes,False,Unsure,Insomnia; Depression; Aggression,Medium,False,13-17
+P0486,Parent,45-54,Want to but struggle,True,Unsure,Insomnia; Academic Performance; Eating Disorders,Low,True,13-17
+P0487,Parent,45-54,Want to but struggle,True,No,Insomnia; Eating Disorders; Aggression,Low,True,9-12
+P0488,Parent,35-44,Yes,False,Unsure,Depression; Eating Disorders,Low,False,9-12
+P0489,Parent,35-44,Want to but struggle,True,Unsure,Academic Performance,Medium,True,13-17
+P0490,Parent,35-44,Yes,True,No,Academic Performance,Medium,True,9-12
+P0491,Parent,45-54,Yes,True,No,None,High,False,9-12
+P0492,Parent,25-34,Yes,False,No,None,Low,False,9-12
+P0493,Parent,25-34,No,False,Unsure,Academic Performance,Low,True,13-17
+P0494,Parent,45-54,Want to but struggle,True,Unsure,None,Low,True,13-17
+P0495,Parent,35-44,Yes,True,Unsure,None,High,True,13-17
+P0496,Parent,25-34,Want to but struggle,False,Unsure,Insomnia,Low,False,13-17
+P0497,Parent,35-44,Yes,False,No,Academic Performance,Medium,True,13-17
+P0498,Parent,35-44,Want to but struggle,False,Unsure,Insomnia,Low,False,13-17
+P0499,Parent,35-44,Yes,False,Unsure,Academic Performance,Medium,True,13-17
+P0500,Parent,25-34,Want to but struggle,True,No,Depression; Aggression,Low,True,9-12
+P0501,Parent,35-44,Yes,True,No,None,Medium,True,13-17
+P0502,Parent,35-44,Want to but struggle,False,Unsure,Depression,Low,True,13-17
+P0503,Parent,35-44,Yes,True,No,Academic Performance; Eating Disorders,Medium,False,9-12
+P0504,Parent,35-44,Yes,True,No,Academic Performance,High,True,13-17
+P0505,Parent,45-54,Want to but struggle,True,No,Insomnia; Eating Disorders,Low,True,9-12
+P0506,Parent,55+,Want to but struggle,True,No,Depression,Medium,True,13-17
+P0507,Parent,35-44,Yes,False,No,None,Medium,False,13-17
+P0508,Parent,35-44,Yes,True,Unsure,Academic Performance; Aggression,Medium,False,13-17
+P0509,Parent,55+,Want to but struggle,True,No,Insomnia,Low,True,13-17
+P0510,Parent,45-54,Yes,True,No,Insomnia,Medium,False,9-12
+P0511,Parent,35-44,Yes,True,No,None,Medium,False,13-17
+P0512,Parent,35-44,Yes,True,Unsure,Insomnia,High,True,13-17
+P0513,Parent,25-34,Yes,False,No,None,Low,True,13-17
+P0514,Parent,35-44,Want to but struggle,True,Unsure,None,Medium,False,13-17
+P0515,Parent,35-44,Yes,False,Unsure,Insomnia; Academic Performance; Aggression,Low,False,13-17
+P0516,Parent,45-54,Want to but struggle,True,No,Academic Performance,Medium,True,13-17
+P0517,Parent,35-44,Want to but struggle,True,No,Aggression,Medium,True,13-17
+P0518,Parent,45-54,Want to but struggle,True,Unsure,Academic Performance,Low,False,13-17
+P0519,Parent,45-54,Yes,False,No,Insomnia,Low,False,13-17
+P0520,Parent,55+,Yes,False,No,None,Medium,False,9-12
+P0521,Parent,45-54,Want to but struggle,False,No,Insomnia,Low,False,13-17
+P0522,Parent,35-44,Yes,False,Unsure,Insomnia; Depression,Low,True,13-17
+P0523,Parent,45-54,No,True,Unsure,None,Low,False,13-17
+P0524,Parent,45-54,Want to but struggle,True,No,Academic Performance,Medium,False,13-17
+P0525,Parent,45-54,Want to but struggle,True,No,Insomnia; Academic Performance,Medium,False,9-12
+P0526,Parent,45-54,Want to but struggle,True,Unsure,Academic Performance; Eating Disorders,Low,False,9-12
+P0527,Parent,35-44,Yes,False,No,Depression,Low,False,9-12
+P0528,Parent,45-54,Want to but struggle,True,Unsure,None,Low,True,13-17
+P0529,Parent,25-34,Want to but struggle,True,No,Academic Performance,Low,True,13-17
+P0530,Parent,25-34,Yes,False,No,Depression,Low,True,9-12
+P0531,Parent,25-34,No,True,No,None,Low,True,13-17
+P0532,Parent,45-54,Yes,False,Unsure,None,Medium,True,13-17
+P0533,Parent,35-44,Yes,False,No,None,Medium,False,13-17
+P0534,Parent,35-44,Want to but struggle,False,Unsure,None,Medium,True,13-17
+P0535,Parent,45-54,Yes,True,No,Insomnia; Depression,High,True,13-17
+P0536,Parent,35-44,Yes,True,No,Academic Performance,High,False,9-12
+P0537,Parent,45-54,Yes,True,No,Insomnia; Academic Performance,High,False,9-12
+P0538,Parent,45-54,No,True,Unsure,None,Low,True,13-17
+P0539,Parent,55+,Yes,False,No,Insomnia; Academic Performance; Aggression,Low,True,13-17
+P0540,Parent,35-44,Yes,False,No,Aggression,Low,False,13-17
+P0541,Parent,45-54,Want to but struggle,False,No,Academic Performance,Low,True,9-12
+P0542,Parent,35-44,Yes,False,Unsure,None,Low,True,13-17
+P0543,Parent,35-44,Yes,False,Unsure,Insomnia; Eating Disorders,Low,False,13-17
+P0544,Parent,35-44,Yes,True,No,Depression; Eating Disorders,High,True,9-12
+P0545,Parent,45-54,Yes,True,No,Insomnia,Medium,False,13-17
+P0546,Parent,45-54,Yes,False,Unsure,None,Low,False,9-12
+P0547,Parent,45-54,Yes,True,Unsure,Insomnia; Aggression,Medium,False,13-17
+P0548,Parent,35-44,Yes,True,No,Academic Performance; Depression,Medium,True,13-17
+P0549,Parent,45-54,Yes,True,Unsure,Insomnia,High,False,13-17
+P0550,Parent,35-44,Want to but struggle,True,Unsure,None,Low,True,13-17
+P0551,Parent,25-34,Want to but struggle,False,No,Insomnia; Eating Disorders,Low,False,13-17
+P0552,Parent,45-54,Yes,True,No,None,Medium,True,13-17
+P0553,Parent,35-44,Want to but struggle,True,Unsure,Depression,Medium,True,13-17
+P0554,Parent,45-54,No,False,Unsure,None,Low,True,13-17
+P0555,Parent,35-44,No,False,No,Depression,Low,True,9-12
+P0556,Parent,25-34,Want to but struggle,False,No,Insomnia; Academic Performance,Low,False,13-17
+P0557,Parent,35-44,Want to but struggle,False,No,None,Medium,True,13-17
+P0558,Parent,35-44,Yes,False,No,None,Medium,True,13-17
+P0559,Parent,45-54,No,True,No,None,Low,False,9-12
+P0560,Parent,45-54,Yes,False,No,Insomnia,Low,True,13-17
+P0561,Parent,35-44,Want to but struggle,True,No,Depression,Medium,True,13-17
+P0562,Parent,45-54,Yes,True,No,None,Medium,True,13-17
+P0563,Parent,35-44,Want to but struggle,False,No,Academic Performance,Low,True,9-12
+P0564,Parent,35-44,No,True,No,None,Low,False,9-12
+P0565,Parent,25-34,Yes,False,No,Academic Performance; Depression,Medium,False,9-12
+P0566,Parent,35-44,Yes,False,No,Aggression,Low,True,13-17
+P0567,Parent,35-44,Want to but struggle,False,Unsure,Academic Performance; Depression,Low,True,13-17
+P0568,Parent,35-44,No,False,No,Insomnia; Academic Performance,Medium,True,13-17
+P0569,Parent,45-54,Want to but struggle,False,No,None,Low,True,9-12
+P0570,Parent,35-44,Yes,False,No,Eating Disorders,Low,True,9-12
+P0571,Parent,35-44,Want to but struggle,False,Unsure,Depression,Medium,True,13-17
+P0572,Parent,35-44,Yes,True,Unsure,Insomnia; Depression,Medium,False,13-17
+P0573,Parent,35-44,Yes,True,Unsure,Insomnia; Academic Performance,High,False,13-17
+P0574,Parent,35-44,Want to but struggle,True,No,None,Medium,True,9-12
+P0575,Parent,35-44,Yes,True,No,Insomnia; Academic Performance,Medium,False,9-12
+P0576,Parent,55+,Yes,False,No,Aggression,Low,True,13-17
+P0577,Parent,35-44,Yes,False,No,Insomnia; Depression,Low,True,13-17
+P0578,Parent,45-54,Want to but struggle,True,No,None,Medium,True,13-17
+P0579,Parent,35-44,Want to but struggle,False,Unsure,Academic Performance,Low,False,9-12
+P0580,Parent,35-44,Yes,True,Unsure,Insomnia,Medium,False,13-17
+P0581,Parent,35-44,Yes,False,No,Insomnia,Medium,True,13-17
+P0582,Parent,35-44,Yes,False,No,Insomnia; Academic Performance,Low,True,13-17
+P0583,Parent,35-44,Want to but struggle,True,No,Insomnia; Academic Performance,Medium,True,9-12
+P0584,Parent,35-44,Want to but struggle,False,No,Academic Performance,Medium,False,13-17
+P0585,Parent,35-44,Yes,True,Unsure,None,Medium,False,13-17
+P0586,Parent,45-54,Yes,False,No,Insomnia; Academic Performance; Eating Disorders; Aggression,Medium,False,13-17
+P0587,Parent,35-44,Yes,True,Unsure,None,Medium,True,13-17
+P0588,Parent,45-54,Yes,False,No,None,Low,False,13-17
+P0589,Parent,45-54,Want to but struggle,True,No,Eating Disorders,Low,True,13-17
+P0590,Parent,35-44,No,False,No,Aggression,Medium,True,13-17
+P0591,Parent,45-54,Yes,True,No,Academic Performance; Eating Disorders; Aggression,Medium,False,9-12
+P0592,Parent,35-44,Yes,False,Unsure,Insomnia; Aggression,Low,False,9-12
+P0593,Parent,35-44,Yes,False,Unsure,Academic Performance,Low,True,9-12
+P0594,Parent,45-54,Want to but struggle,True,Unsure,Insomnia; Academic Performance; Eating Disorders,Low,True,13-17
+P0595,Parent,35-44,Yes,True,No,Eating Disorders,Medium,True,13-17
+P0596,Parent,55+,Yes,False,Unsure,Academic Performance; Eating Disorders; Aggression,Low,False,13-17
+P0597,Parent,25-34,Yes,True,No,None,Medium,False,9-12
+P0598,Parent,35-44,Want to but struggle,False,No,Insomnia,Low,False,13-17
+P0599,Parent,35-44,No,True,No,Academic Performance,Low,False,13-17
+P0600,Parent,35-44,Yes,False,No,Insomnia; Depression,Low,False,13-17
+P0601,Parent,25-34,Want to but struggle,True,Unsure,Academic Performance; Depression,Medium,False,9-12
+P0602,Parent,45-54,Yes,True,No,Insomnia; Academic Performance,Medium,True,13-17
+P0603,Parent,35-44,Want to but struggle,False,Unsure,Insomnia,Low,False,9-12
+P0604,Parent,35-44,Yes,True,No,Insomnia; Academic Performance,Medium,True,13-17
+P0605,Parent,45-54,Yes,True,No,Eating Disorders,High,False,13-17
+P0606,Parent,35-44,Yes,True,Unsure,Depression,Medium,True,13-17
+P0607,Parent,45-54,Yes,False,No,None,Low,False,13-17
+P0608,Parent,45-54,Yes,False,Unsure,Aggression,Low,False,9-12
+P0609,Parent,25-34,Yes,False,No,Eating Disorders,Medium,True,13-17
+P0610,Parent,45-54,Yes,False,No,Academic Performance; Depression; Aggression,Medium,True,13-17
+P0611,Parent,35-44,Yes,False,Unsure,Insomnia; Depression,Low,True,13-17
+P0612,Parent,35-44,Want to but struggle,True,Unsure,Insomnia,Medium,True,9-12
+P0613,Parent,25-34,Want to but struggle,True,No,Insomnia; Academic Performance,Medium,False,9-12
+P0614,Parent,55+,Yes,True,No,Academic Performance,High,False,13-17
+P0615,Parent,35-44,No,True,No,Insomnia; Academic Performance; Depression,Low,True,13-17
+P0616,Parent,35-44,Want to but struggle,True,No,Insomnia; Academic Performance; Eating Disorders,Low,True,13-17
+P0617,Parent,35-44,Want to but struggle,False,No,Eating Disorders,Low,True,13-17
+P0618,Parent,35-44,Yes,False,Yes,Depression; Eating Disorders,Medium,True,13-17
+P0619,Parent,35-44,Want to but struggle,False,No,Insomnia,Medium,True,9-12
+P0620,Parent,35-44,Yes,True,No,None,Medium,True,13-17
+P0621,Parent,35-44,Want to but struggle,False,No,Academic Performance; Eating Disorders,Low,True,9-12
+P0622,Parent,35-44,Yes,False,Unsure,None,Medium,False,9-12
+P0623,Parent,45-54,Want to but struggle,False,Unsure,None,Medium,False,13-17
+P0624,Parent,35-44,Yes,True,Unsure,Academic Performance; Aggression,High,False,13-17
+P0625,Parent,35-44,Want to but struggle,False,No,Insomnia,Medium,False,13-17
+P0626,Parent,45-54,No,False,No,None,Medium,False,13-17
+P0627,Parent,45-54,Yes,True,Unsure,Insomnia,Medium,False,13-17
+P0628,Parent,35-44,Yes,True,Unsure,Insomnia; Aggression,Medium,True,13-17
+P0629,Parent,45-54,Want to but struggle,False,No,Insomnia,Low,False,13-17
+P0630,Parent,35-44,Yes,False,No,Insomnia; Academic Performance; Depression,Medium,False,13-17
+P0631,Parent,45-54,Want to but struggle,False,No,Insomnia,Medium,False,9-12
+P0632,Parent,25-34,Want to but struggle,False,No,Insomnia; Academic Performance; Depression,Medium,False,13-17
+P0633,Parent,45-54,Want to but struggle,False,No,Academic Performance,Low,False,13-17
+P0634,Parent,35-44,Want to but struggle,True,No,None,Low,True,13-17
+P0635,Parent,45-54,Want to but struggle,True,No,Academic Performance,Low,False,13-17
+P0636,Parent,45-54,No,True,Unsure,Insomnia,Low,False,13-17
+P0637,Parent,45-54,Yes,False,Unsure,Insomnia,Low,True,9-12
+P0638,Parent,35-44,Yes,True,No,Academic Performance,Medium,True,13-17
+P0639,Parent,35-44,Yes,True,No,None,High,True,13-17
+P0640,Parent,35-44,Yes,False,No,None,Medium,False,13-17
+P0641,Parent,45-54,Yes,False,No,Insomnia,Low,False,9-12
+P0642,Parent,35-44,Want to but struggle,True,Unsure,Eating Disorders,Medium,False,13-17
+P0643,Parent,35-44,No,False,Unsure,Insomnia; Academic Performance,Medium,False,13-17
+P0644,Parent,35-44,Yes,True,No,Insomnia; Depression; Aggression,Medium,False,13-17
+P0645,Parent,35-44,Yes,False,Unsure,Academic Performance; Aggression,Low,True,13-17
+P0646,Parent,25-34,Want to but struggle,False,No,Insomnia,Medium,False,13-17
+P0647,Parent,35-44,Want to but struggle,True,No,Academic Performance; Depression,Low,True,13-17
+P0648,Parent,35-44,Yes,True,No,Academic Performance,Medium,False,13-17
+P0649,Parent,35-44,Want to but struggle,True,Unsure,Aggression,Medium,False,13-17
+P0650,Parent,35-44,Yes,False,Unsure,None,Low,False,9-12
+P0651,Parent,35-44,Yes,False,Yes,Insomnia,Medium,False,13-17
+P0652,Parent,45-54,No,False,No,Insomnia,Medium,True,13-17
+P0653,Parent,35-44,Want to but struggle,True,No,Aggression,Medium,False,9-12
+P0654,Parent,45-54,Want to but struggle,True,No,None,Medium,False,13-17
+P0655,Parent,35-44,Yes,True,No,Academic Performance,Medium,False,13-17
+P0656,Parent,35-44,Want to but struggle,True,No,Insomnia; Depression,Medium,False,13-17
+P0657,Parent,35-44,Yes,True,No,Aggression,Medium,True,13-17
+P0658,Parent,35-44,Want to but struggle,False,No,Eating Disorders,Medium,True,9-12
+P0659,Parent,25-34,Yes,True,Unsure,Insomnia; Academic Performance; Depression,Medium,True,9-12
+P0660,Parent,35-44,Yes,True,No,None,Medium,True,9-12
+P0661,Parent,45-54,Yes,True,No,Depression,Medium,False,13-17
+P0662,Parent,35-44,Yes,False,No,None,Low,True,13-17
+P0663,Parent,35-44,Want to but struggle,False,No,Academic Performance; Depression,Low,False,13-17
+P0664,Parent,45-54,Yes,True,No,Insomnia,High,True,13-17
+P0665,Parent,25-34,Yes,True,Unsure,None,High,False,13-17
+P0666,Parent,45-54,Yes,False,No,None,Low,True,13-17
+P0667,Parent,45-54,Want to but struggle,False,No,Insomnia,Low,False,13-17
+P0668,Parent,35-44,Want to but struggle,False,No,Insomnia; Academic Performance; Depression,Low,True,9-12
+P0669,Parent,45-54,Yes,False,No,Insomnia; Academic Performance,Low,False,9-12
+P0670,Parent,35-44,Yes,False,Yes,None,Low,True,13-17
+P0671,Parent,35-44,Yes,False,No,Academic Performance; Depression,Low,False,13-17
+P0672,Parent,35-44,Yes,False,Unsure,Academic Performance,Low,True,9-12
+P0673,Parent,35-44,Want to but struggle,True,No,Insomnia; Academic Performance; Depression,Medium,True,13-17
+P0674,Parent,35-44,Yes,True,Unsure,None,Medium,True,13-17
+P0675,Parent,35-44,Yes,True,Unsure,None,Medium,True,13-17
+P0676,Parent,45-54,Want to but struggle,True,No,Academic Performance,Low,False,13-17
+P0677,Parent,45-54,Want to but struggle,False,Unsure,None,Low,False,13-17
+P0678,Parent,35-44,Yes,True,No,Insomnia,High,False,13-17
+P0679,Parent,35-44,Want to but struggle,True,Unsure,Insomnia; Academic Performance,Medium,False,9-12
+P0680,Parent,25-34,Want to but struggle,True,Unsure,Depression,Low,False,9-12
+P0681,Parent,35-44,Yes,True,No,None,High,True,13-17
+P0682,Parent,35-44,Want to but struggle,False,No,Eating Disorders,Low,True,13-17
+P0683,Parent,45-54,Yes,False,No,Insomnia; Eating Disorders,Medium,False,9-12
+P0684,Parent,35-44,Yes,True,No,Academic Performance; Eating Disorders,Medium,False,13-17
+P0685,Parent,35-44,Yes,False,Unsure,Insomnia,Medium,False,13-17
+P0686,Parent,25-34,No,True,Unsure,Academic Performance; Eating Disorders,Low,False,9-12
+P0687,Parent,35-44,Want to but struggle,True,No,Insomnia; Academic Performance,Low,True,13-17
+P0688,Parent,25-34,Yes,True,Unsure,Depression,Medium,True,13-17
+P0689,Parent,35-44,Want to but struggle,True,No,Insomnia,Low,True,9-12
+P0690,Parent,45-54,Yes,False,No,None,Low,False,13-17
+P0691,Parent,45-54,Yes,True,No,None,High,True,9-12
+P0692,Parent,35-44,Yes,False,Unsure,Insomnia,Low,False,13-17
+P0693,Parent,35-44,No,True,No,None,Medium,False,13-17
+P0694,Parent,35-44,Want to but struggle,False,Unsure,Aggression,Low,True,13-17
+P0695,Parent,45-54,Yes,True,Unsure,None,High,False,9-12
+P0696,Parent,35-44,Want to but struggle,True,No,Insomnia; Academic Performance,Low,True,13-17
+P0697,Parent,35-44,Yes,False,No,None,Medium,False,13-17
+P0698,Parent,35-44,Want to but struggle,True,Unsure,Insomnia,Low,False,13-17
+P0699,Parent,45-54,Want to but struggle,True,No,None,Low,True,9-12
+P0700,Parent,25-34,Want to but struggle,True,No,Depression,Medium,True,13-17
+P0701,Parent,25-34,Yes,True,No,Depression; Eating Disorders,Medium,False,13-17
+P0702,Parent,35-44,Yes,True,No,None,High,True,13-17
+P0703,Parent,45-54,Yes,False,No,Depression; Aggression,Low,False,13-17
+P0704,Parent,35-44,Want to but struggle,True,No,Insomnia; Depression; Eating Disorders,Low,True,13-17
+P0705,Parent,35-44,Yes,False,Unsure,None,Low,False,13-17
+P0706,Parent,45-54,Want to but struggle,True,No,Depression,Low,False,9-12
+P0707,Parent,25-34,Want to but struggle,False,Unsure,Insomnia; Academic Performance,Low,False,13-17
+P0708,Parent,35-44,No,True,No,Insomnia,Medium,True,13-17
+P0709,Parent,25-34,Yes,False,No,Insomnia; Academic Performance; Eating Disorders,Medium,False,9-12
+P0710,Parent,35-44,Yes,True,No,None,High,False,9-12
+P0711,Parent,35-44,Yes,True,Unsure,Insomnia,High,True,13-17
+P0712,Parent,45-54,Yes,True,Unsure,Eating Disorders,Medium,False,13-17
+P0713,Parent,35-44,Want to but struggle,True,No,Academic Performance,Low,True,13-17
+P0714,Parent,55+,Want to but struggle,True,Unsure,None,Low,False,13-17
+P0715,Parent,35-44,Yes,True,No,None,Medium,True,9-12
+P0716,Parent,35-44,Want to but struggle,True,Unsure,Academic Performance,Medium,True,13-17
+P0717,Parent,25-34,No,True,No,Insomnia,Low,False,9-12
+P0718,Parent,35-44,Yes,True,No,Insomnia,Medium,False,9-12
+P0719,Parent,45-54,Want to but struggle,False,No,Insomnia,Low,True,13-17
+P0720,Parent,35-44,Want to but struggle,False,No,None,Low,False,9-12
+P0721,Parent,45-54,Want to but struggle,True,Yes,Depression,Medium,False,9-12
+P0722,Parent,45-54,Yes,True,No,None,Medium,True,13-17
+P0723,Parent,35-44,Want to but struggle,False,Unsure,None,Low,True,9-12
+P0724,Parent,35-44,Yes,False,No,Depression,Medium,True,9-12
+P0725,Parent,35-44,Want to but struggle,True,Unsure,Insomnia; Academic Performance,Medium,True,9-12
+P0726,Parent,35-44,Want to but struggle,True,Unsure,Insomnia,Medium,True,13-17
+P0727,Parent,35-44,Want to but struggle,False,Unsure,None,Low,False,9-12
+P0728,Parent,35-44,Yes,True,Unsure,Insomnia; Academic Performance; Eating Disorders,High,False,13-17
+P0729,Parent,55+,Want to but struggle,True,No,Depression,Low,False,9-12
+P0730,Parent,35-44,Yes,True,Unsure,None,Medium,True,13-17
+P0731,Parent,35-44,Yes,True,No,Insomnia,High,True,13-17
+P0732,Parent,35-44,Yes,True,Unsure,Aggression,Medium,False,13-17
+P0733,Parent,45-54,Yes,True,Unsure,Depression; Aggression,High,False,13-17
+P0734,Parent,35-44,Want to but struggle,True,Unsure,Insomnia,Low,False,13-17
+P0735,Parent,35-44,Want to but struggle,True,Unsure,Academic Performance; Eating Disorders,Low,True,13-17
+P0736,Parent,45-54,Want to but struggle,False,No,Aggression,Low,True,13-17
+P0737,Parent,35-44,Yes,False,Unsure,None,Medium,True,13-17
+P0738,Parent,45-54,Yes,True,Unsure,None,Medium,True,13-17
+P0739,Parent,35-44,Yes,True,No,Insomnia,Medium,True,13-17
+P0740,Parent,45-54,Want to but struggle,True,No,None,Low,True,9-12
+P0741,Parent,25-34,Yes,False,No,Academic Performance,Medium,True,13-17
+P0742,Parent,35-44,No,True,No,Depression,Low,False,9-12
+P0743,Parent,25-34,No,True,No,None,Low,True,13-17
+P0744,Parent,35-44,Yes,False,No,Insomnia; Academic Performance; Eating Disorders,Medium,True,13-17
+P0745,Parent,35-44,Yes,True,Unsure,Insomnia,Medium,True,13-17
+P0746,Parent,35-44,Yes,True,No,None,High,False,13-17
+P0747,Parent,25-34,Yes,True,Unsure,Depression,Medium,True,13-17
+P0748,Parent,35-44,Yes,True,No,Insomnia; Depression,Medium,False,9-12
+P0749,Parent,45-54,Want to but struggle,True,Unsure,Depression,Medium,True,13-17
+P0750,Parent,35-44,Want to but struggle,True,No,None,Low,False,9-12
+P0751,Parent,35-44,Want to but struggle,True,No,Depression,Low,True,13-17
+P0752,Parent,45-54,Yes,False,No,Academic Performance,Low,True,13-17
+P0753,Parent,45-54,No,True,No,Academic Performance,Low,False,13-17
+P0754,Parent,35-44,Want to but struggle,True,Unsure,None,Medium,True,13-17
+P0755,Parent,35-44,Yes,True,Unsure,Insomnia; Academic Performance,Medium,False,13-17
+P0756,Parent,35-44,Yes,False,No,Depression; Eating Disorders,Low,True,13-17
+P0757,Parent,35-44,No,True,No,Insomnia,Medium,False,9-12
+P0758,Parent,35-44,Yes,False,Unsure,Insomnia; Depression,Low,True,13-17
+P0759,Parent,55+,Yes,True,No,Insomnia,Medium,False,13-17
+P0760,Parent,25-34,Yes,True,No,Depression,Medium,True,9-12
+P0761,Parent,35-44,Want to but struggle,True,No,None,Low,True,13-17
+P0762,Parent,35-44,Want to but struggle,True,No,None,Low,False,13-17
+P0763,Parent,45-54,Yes,True,No,Aggression,Medium,True,13-17
+P0764,Parent,35-44,Want to but struggle,True,Unsure,None,Low,True,13-17
+P0765,Parent,45-54,Yes,True,No,None,High,False,9-12
+P0766,Parent,35-44,No,True,No,Academic Performance,Low,True,13-17
+P0767,Parent,35-44,Yes,True,No,Insomnia,Medium,True,9-12
+P0768,Parent,25-34,Yes,True,No,None,Medium,True,9-12
+P0769,Parent,35-44,Want to but struggle,True,No,None,Low,False,9-12
+P0770,Parent,35-44,No,False,Unsure,None,Low,True,9-12
+P0771,Parent,35-44,Yes,False,No,Academic Performance,Low,False,13-17
+P0772,Parent,45-54,Want to but struggle,False,Unsure,Insomnia,Low,True,13-17
+P0773,Parent,25-34,Want to but struggle,True,No,Insomnia,Medium,True,13-17
+P0774,Parent,35-44,Want to but struggle,False,Unsure,None,Medium,True,9-12
+P0775,Parent,35-44,No,True,No,Insomnia; Depression; Aggression,Low,True,13-17
+P0776,Parent,45-54,Want to but struggle,False,Unsure,Depression; Aggression,Low,True,13-17
+P0777,Parent,35-44,Want to but struggle,False,No,Insomnia,Low,False,13-17
+P0778,Parent,35-44,Want to but struggle,True,Unsure,Depression,Medium,False,13-17
+P0779,Parent,45-54,Want to but struggle,True,Unsure,None,Low,False,9-12
+P0780,Parent,35-44,Want to but struggle,False,Unsure,Academic Performance,Low,False,13-17
+P0781,Parent,45-54,Yes,True,No,None,Medium,False,13-17
+P0782,Parent,45-54,Yes,False,No,Eating Disorders,Low,False,13-17
+P0783,Parent,45-54,Yes,True,No,Academic Performance; Depression,Medium,True,13-17
+P0784,Parent,35-44,Want to but struggle,True,No,Academic Performance; Eating Disorders,Low,True,13-17
+P0785,Parent,35-44,Want to but struggle,False,No,None,Low,False,13-17
+P0786,Parent,25-34,Yes,True,No,None,Medium,False,13-17
+P0787,Parent,45-54,Yes,True,No,Academic Performance,High,False,9-12
+P0788,Parent,35-44,Want to but struggle,False,Unsure,Insomnia; Academic Performance,Medium,True,9-12
+P0789,Parent,35-44,Yes,False,No,Insomnia; Academic Performance; Eating Disorders,Low,True,13-17
+P0790,Parent,35-44,Want to but struggle,False,Unsure,Insomnia,Low,False,9-12
+P0791,Parent,45-54,Yes,True,Unsure,Insomnia; Aggression,High,True,13-17
+P0792,Parent,35-44,Yes,True,Unsure,None,Medium,False,13-17
+P0793,Parent,35-44,Want to but struggle,False,Unsure,None,Medium,False,9-12
+P0794,Parent,35-44,Yes,False,No,None,Low,False,9-12
+P0795,Parent,45-54,Want to but struggle,True,No,Insomnia; Academic Performance,Low,False,13-17
+P0796,Parent,45-54,Yes,True,No,None,Medium,False,9-12
+P0797,Parent,45-54,Yes,True,Yes,None,Medium,False,13-17
+P0798,Parent,45-54,Want to but struggle,False,No,Depression,Low,False,13-17
+P0799,Parent,35-44,Want to but struggle,True,Unsure,Depression; Eating Disorders,Low,True,13-17
+P0800,Parent,45-54,Want to but struggle,True,Unsure,Academic Performance; Depression; Eating Disorders,Low,False,13-17
+P0801,Parent,45-54,Yes,True,No,None,High,True,9-12
+P0802,Parent,35-44,Want to but struggle,True,No,None,Medium,True,13-17
+P0803,Parent,35-44,Yes,True,No,Academic Performance,Medium,False,9-12
+P0804,Parent,25-34,Yes,True,No,None,Medium,True,9-12
+P0805,Parent,35-44,Yes,True,No,Academic Performance; Eating Disorders,Medium,False,13-17
+P0806,Parent,35-44,No,False,Unsure,Academic Performance,Medium,True,13-17
+P0807,Parent,25-34,Yes,False,No,None,Low,True,13-17
+P0808,Parent,55+,Want to but struggle,True,Unsure,Insomnia; Academic Performance,Low,False,13-17
+P0809,Parent,35-44,Yes,True,No,Eating Disorders,Medium,True,13-17
+P0810,Parent,35-44,Want to but struggle,False,No,Academic Performance,Medium,True,9-12
+P0811,Parent,45-54,No,False,No,Insomnia; Depression,Low,True,9-12
+P0812,Parent,45-54,Yes,False,No,None,Low,False,13-17
+P0813,Parent,35-44,Yes,True,Unsure,Insomnia,High,False,13-17
+P0814,Parent,35-44,Want to but struggle,True,Unsure,Academic Performance,Medium,False,13-17
+P0815,Parent,35-44,Want to but struggle,False,No,Depression,Low,True,13-17
+P0816,Parent,45-54,Yes,True,No,Insomnia; Academic Performance; Aggression,High,False,13-17
+P0817,Parent,45-54,Want to but struggle,False,Unsure,Insomnia,Medium,False,9-12
+P0818,Parent,35-44,No,True,Unsure,Eating Disorders,Low,True,13-17
+P0819,Parent,35-44,Yes,False,Unsure,Aggression,Low,False,9-12
+P0820,Parent,45-54,Want to but struggle,True,No,None,Medium,False,13-17
+P0821,Parent,35-44,Want to but struggle,False,No,Academic Performance,Low,False,13-17
+P0822,Parent,35-44,Yes,True,Unsure,Insomnia; Depression; Eating Disorders,Medium,True,9-12
+P0823,Parent,35-44,Want to but struggle,True,Unsure,Academic Performance; Eating Disorders,Low,True,13-17
+P0824,Parent,35-44,Yes,False,Unsure,None,Low,True,13-17
+P0825,Parent,35-44,Want to but struggle,True,No,Eating Disorders,Low,False,13-17
+P0826,Parent,45-54,Want to but struggle,False,No,None,Low,False,9-12
+P0827,Parent,55+,Yes,True,Unsure,None,High,False,13-17
+P0828,Parent,35-44,Yes,False,Unsure,Depression,Low,True,13-17
+P0829,Parent,45-54,Yes,False,No,Insomnia,Medium,False,13-17
+P0830,Parent,35-44,Want to but struggle,False,No,Insomnia; Eating Disorders,Low,True,13-17
+P0831,Parent,25-34,Yes,False,No,Insomnia,Low,True,13-17
+P0832,Parent,35-44,Want to but struggle,True,Unsure,Insomnia,Medium,False,13-17
+P0833,Parent,35-44,Want to but struggle,False,No,Academic Performance,Medium,True,13-17
+P0834,Parent,35-44,No,False,Yes,Eating Disorders,Medium,False,13-17
+P0835,Parent,45-54,Yes,False,Unsure,None,Medium,True,9-12
+P0836,Parent,35-44,Want to but struggle,False,No,Insomnia; Aggression,Medium,True,9-12
+P0837,Parent,45-54,Yes,False,No,Academic Performance,Medium,False,13-17
+P0838,Parent,45-54,No,True,No,None,Low,True,9-12
+P0839,Parent,45-54,Yes,True,Yes,None,High,False,13-17
+P0840,Parent,45-54,Want to but struggle,False,No,Depression,Low,True,13-17
+P0841,Parent,35-44,Yes,True,No,Academic Performance,Medium,True,9-12
+P0842,Parent,25-34,Yes,True,No,None,Medium,True,9-12
+P0843,Parent,35-44,Want to but struggle,True,Unsure,Academic Performance,Low,True,13-17
+P0844,Parent,25-34,Yes,True,No,Insomnia; Academic Performance; Depression,High,False,13-17
+P0845,Parent,45-54,No,False,Unsure,Insomnia; Academic Performance; Depression; Aggression,Medium,True,9-12
+P0846,Parent,35-44,Want to but struggle,True,No,None,Medium,True,9-12
+P0847,Parent,45-54,No,True,No,Insomnia; Eating Disorders,Low,True,13-17
+P0848,Parent,45-54,Want to but struggle,False,No,None,Medium,True,13-17
+P0849,Parent,45-54,Want to but struggle,False,No,Insomnia; Eating Disorders; Aggression,Low,False,13-17
+P0850,Parent,25-34,Yes,False,No,Insomnia; Academic Performance,Low,True,13-17
+P0851,Parent,35-44,Want to but struggle,False,Unsure,None,Low,True,9-12
+P0852,Parent,35-44,Want to but struggle,False,Unsure,Insomnia,Low,False,9-12
+P0853,Parent,45-54,Yes,True,No,None,High,True,13-17
+P0854,Parent,35-44,No,False,No,Eating Disorders,Low,True,13-17
+P0855,Parent,45-54,Yes,False,No,Academic Performance,Medium,True,13-17
+P0856,Parent,25-34,Yes,False,No,Insomnia,Low,False,13-17
+P0857,Parent,35-44,Yes,False,Unsure,None,Medium,True,9-12
+P0858,Parent,45-54,Yes,False,No,Academic Performance,Low,False,13-17
+P0859,Parent,55+,Want to but struggle,False,No,Academic Performance; Depression,Low,True,9-12
+P0860,Parent,35-44,Want to but struggle,False,No,Depression,Low,True,13-17
+P0861,Parent,35-44,Want to but struggle,False,No,None,Low,True,13-17
+P0862,Parent,35-44,No,False,Unsure,None,Low,True,9-12
+P0863,Parent,45-54,Yes,True,Unsure,Insomnia; Academic Performance,High,True,9-12
+P0864,Parent,35-44,Want to but struggle,False,No,Insomnia,Low,False,13-17
+P0865,Parent,35-44,No,True,Yes,Eating Disorders,Low,True,13-17
+P0866,Parent,35-44,Yes,True,Unsure,None,Medium,True,13-17
+P0867,Parent,35-44,Want to but struggle,True,No,Depression,Medium,True,13-17
+P0868,Parent,45-54,Yes,False,No,Insomnia; Academic Performance; Depression,Low,False,13-17
+P0869,Parent,35-44,Yes,True,Unsure,None,High,True,9-12
+P0870,Parent,45-54,Want to but struggle,False,No,None,Low,True,13-17
+P0871,Parent,25-34,Want to but struggle,True,Unsure,Eating Disorders,Medium,False,9-12
+P0872,Parent,45-54,Yes,True,No,None,Medium,True,9-12
+P0873,Parent,45-54,Want to but struggle,False,No,Academic Performance; Aggression,Low,True,13-17
+P0874,Parent,35-44,Want to but struggle,True,No,None,Low,True,9-12
+P0875,Parent,45-54,Want to but struggle,False,Unsure,Academic Performance,Medium,True,13-17
+P0876,Parent,35-44,Yes,True,No,Insomnia; Academic Performance; Depression,Medium,False,13-17
+P0877,Parent,25-34,Want to but struggle,True,No,Academic Performance,Medium,True,13-17
+P0878,Parent,55+,Want to but struggle,False,No,Eating Disorders,Low,True,13-17
+P0879,Parent,35-44,Yes,True,No,None,Medium,True,9-12
+P0880,Parent,25-34,Want to but struggle,True,No,None,Low,True,13-17
+P0881,Parent,45-54,Yes,True,No,None,Medium,False,13-17
+P0882,Parent,35-44,No,False,Unsure,Insomnia; Academic Performance,Low,False,13-17
+P0883,Parent,45-54,Yes,True,Unsure,Academic Performance; Eating Disorders,Medium,True,13-17
+P0884,Parent,35-44,Yes,True,Unsure,Insomnia,Medium,True,9-12
+P0885,Parent,25-34,Yes,False,No,None,Low,True,9-12
+P0886,Parent,35-44,Yes,False,No,Academic Performance; Depression,Low,True,9-12
+P0887,Parent,45-54,No,True,No,None,Low,True,13-17
+P0888,Parent,35-44,Want to but struggle,True,No,Depression,Low,False,13-17
+P0889,Parent,45-54,Yes,True,Unsure,Eating Disorders,High,False,13-17
+P0890,Parent,35-44,Yes,False,No,Depression,Medium,False,9-12
+P0891,Parent,35-44,Yes,True,No,Eating Disorders,Medium,True,13-17
+P0892,Parent,35-44,Yes,True,Unsure,Academic Performance; Aggression,Medium,True,13-17
+P0893,Parent,45-54,Yes,True,Unsure,Insomnia; Academic Performance,Medium,True,9-12
+P0894,Parent,35-44,Want to but struggle,False,No,None,Low,True,13-17
+P0895,Parent,35-44,Yes,True,No,None,High,True,13-17
+P0896,Parent,35-44,Yes,False,Unsure,Eating Disorders,Low,True,13-17
+P0897,Parent,35-44,Yes,False,Unsure,Aggression,Low,True,13-17
+P0898,Parent,25-34,No,True,No,Depression; Aggression,Medium,True,13-17
+P0899,Parent,35-44,Yes,False,No,Insomnia,Low,False,9-12
+P0900,Parent,45-54,Yes,True,Unsure,Depression; Aggression,High,False,9-12
+P0901,Parent,35-44,Want to but struggle,True,No,Academic Performance,Medium,False,9-12
+P0902,Parent,45-54,Yes,False,No,Depression; Aggression,Low,False,13-17
+P0903,Parent,35-44,Yes,True,Unsure,Depression,High,True,13-17
+P0904,Parent,35-44,Yes,True,No,Depression; Eating Disorders,Medium,False,13-17
+P0905,Parent,35-44,Yes,False,Unsure,None,Low,False,9-12
+P0906,Parent,35-44,Yes,False,No,None,Medium,False,13-17
+P0907,Parent,45-54,Want to but struggle,True,No,None,Low,True,13-17
+P0908,Parent,25-34,Want to but struggle,False,No,Depression,Medium,False,9-12
+P0909,Parent,45-54,Want to but struggle,True,Unsure,Academic Performance; Depression; Aggression,Low,False,13-17
+P0910,Parent,35-44,Yes,True,No,Academic Performance; Depression,High,True,9-12
+P0911,Parent,25-34,Want to but struggle,True,Unsure,Depression,Low,False,13-17
+P0912,Parent,35-44,Want to but struggle,True,No,Depression,Low,True,13-17
+P0913,Parent,25-34,Yes,False,Unsure,Insomnia,Low,True,13-17
+P0914,Parent,35-44,Yes,False,No,Academic Performance,Low,False,13-17
+P0915,Parent,35-44,No,False,No,Depression; Eating Disorders,Low,False,13-17
+P0916,Parent,45-54,Want to but struggle,False,No,None,Low,True,9-12
+P0917,Parent,45-54,Want to but struggle,True,No,Depression,Low,False,13-17
+P0918,Parent,35-44,Want to but struggle,True,Unsure,None,Low,False,13-17
+P0919,Parent,35-44,No,False,No,Academic Performance,Medium,True,9-12
+P0920,Parent,45-54,Want to but struggle,True,Unsure,Academic Performance,Medium,True,13-17
+P0921,Parent,45-54,Yes,True,Unsure,Academic Performance; Depression,High,False,13-17
+P0922,Parent,35-44,No,False,Unsure,None,Medium,False,13-17
+P0923,Parent,35-44,Yes,False,Unsure,Academic Performance,Low,True,13-17
+P0924,Parent,35-44,Want to but struggle,True,No,Insomnia,Low,True,9-12
+P0925,Parent,35-44,Yes,True,No,Insomnia; Academic Performance,Medium,True,13-17
+P0926,Parent,35-44,No,False,No,None,Low,False,13-17
+P0927,Parent,35-44,Want to but struggle,False,No,None,Medium,True,13-17
+P0928,Parent,35-44,Want to but struggle,True,Yes,None,Low,True,13-17
+P0929,Parent,25-34,Yes,False,No,None,Medium,False,13-17
+P0930,Parent,35-44,Yes,True,Unsure,Insomnia; Academic Performance; Depression,High,True,13-17
+P0931,Parent,55+,Want to but struggle,True,No,Insomnia; Depression; Eating Disorders,Low,True,9-12
+P0932,Parent,35-44,Want to but struggle,True,Unsure,None,Medium,True,13-17
+P0933,Parent,25-34,Yes,True,Unsure,Eating Disorders,High,True,13-17
+P0934,Parent,35-44,Yes,True,Unsure,Academic Performance,Medium,True,13-17
+P0935,Parent,35-44,Yes,True,Unsure,Insomnia,High,False,13-17
+P0936,Parent,25-34,Yes,True,Unsure,None,Medium,True,13-17
+P0937,Parent,45-54,Want to but struggle,True,No,None,Low,True,13-17
+P0938,Parent,35-44,Want to but struggle,False,No,None,Medium,True,13-17
+P0939,Parent,45-54,Yes,True,No,Insomnia,High,True,13-17
+P0940,Parent,35-44,Yes,True,No,Academic Performance; Depression,Medium,True,9-12
+P0941,Parent,25-34,Yes,True,No,None,Medium,True,13-17
+P0942,Parent,35-44,No,False,Unsure,Insomnia,Medium,True,13-17
+P0943,Parent,35-44,Yes,False,No,Depression,Low,False,13-17
+P0944,Parent,35-44,Yes,True,No,Insomnia,High,True,13-17
+P0945,Parent,35-44,Yes,True,No,Academic Performance,Medium,False,9-12
+P0946,Parent,45-54,Yes,True,No,Depression; Eating Disorders,High,True,9-12
+P0947,Parent,25-34,Want to but struggle,True,Unsure,None,Low,True,13-17
+P0948,Parent,45-54,No,False,Yes,Academic Performance,Medium,False,13-17
+P0949,Parent,35-44,Want to but struggle,True,No,Insomnia; Depression,Medium,False,13-17
+P0950,Parent,35-44,Yes,False,No,Insomnia; Depression,Low,True,13-17
+P0951,Parent,35-44,Yes,True,Unsure,Insomnia,Medium,True,13-17
+P0952,Parent,25-34,Yes,True,Unsure,Insomnia,High,False,9-12
+P0953,Parent,35-44,Want to but struggle,True,No,Insomnia,Medium,True,13-17
+P0954,Parent,45-54,Yes,False,Unsure,Academic Performance,Medium,True,13-17
+P0955,Parent,45-54,Yes,False,Unsure,Depression,Medium,True,13-17
+P0956,Parent,35-44,Yes,True,Unsure,Eating Disorders,High,False,13-17
+P0957,Parent,35-44,Yes,True,No,Insomnia; Depression; Aggression,Medium,True,13-17
+P0958,Parent,35-44,Yes,True,No,Insomnia; Academic Performance; Aggression,Medium,True,9-12
+P0959,Parent,35-44,Want to but struggle,False,No,Eating Disorders,Medium,True,9-12
+P0960,Parent,35-44,Yes,True,No,Eating Disorders,Medium,False,9-12
+P0961,Parent,35-44,Want to but struggle,False,No,Aggression,Low,True,13-17
+P0962,Parent,25-34,Want to but struggle,False,No,Insomnia; Academic Performance; Depression,Medium,True,13-17
+P0963,Parent,45-54,Want to but struggle,True,No,None,Low,True,13-17
+P0964,Parent,35-44,Yes,True,No,Academic Performance,Medium,False,13-17
+P0965,Parent,35-44,Want to but struggle,True,Unsure,Academic Performance,Medium,False,9-12
+P0966,Parent,35-44,Want to but struggle,True,No,Insomnia,Medium,False,9-12
+P0967,Parent,45-54,Yes,True,Unsure,None,Medium,False,13-17
+P0968,Parent,35-44,Yes,True,No,Academic Performance,High,False,13-17
+P0969,Parent,25-34,Yes,False,No,Academic Performance,Medium,True,9-12
+P0970,Parent,35-44,Yes,True,No,None,High,True,13-17
+P0971,Parent,35-44,Yes,True,Unsure,Depression; Eating Disorders,Medium,True,9-12
+P0972,Parent,35-44,Yes,True,No,Insomnia; Academic Performance; Depression,High,False,13-17
+P0973,Parent,35-44,Yes,False,Yes,Depression,Low,True,13-17
+P0974,Parent,35-44,Want to but struggle,True,No,Insomnia,Low,False,13-17
+P0975,Parent,35-44,Yes,True,No,None,High,True,9-12
+P0976,Parent,45-54,Want to but struggle,True,No,Insomnia,Medium,True,9-12
+P0977,Parent,35-44,Yes,False,No,Academic Performance; Eating Disorders,Low,True,13-17
+P0978,Parent,35-44,No,True,Unsure,Insomnia; Academic Performance,Low,True,13-17
+P0979,Parent,45-54,Want to but struggle,True,No,Eating Disorders,Low,False,13-17
+P0980,Parent,35-44,Want to but struggle,True,No,Academic Performance; Aggression,Medium,True,13-17
+P0981,Parent,35-44,Yes,True,Unsure,None,Medium,True,13-17
+P0982,Parent,25-34,Yes,True,No,None,Medium,False,13-17
+P0983,Parent,45-54,Want to but struggle,True,No,Insomnia,Low,False,13-17
+P0984,Parent,45-54,Want to but struggle,True,No,Insomnia,Low,False,13-17
+P0985,Parent,35-44,Yes,True,Unsure,Academic Performance,Medium,True,13-17
+P0986,Parent,35-44,Yes,True,No,Academic Performance; Depression,High,False,13-17
+P0987,Parent,35-44,Want to but struggle,True,No,None,Medium,False,13-17
+P0988,Parent,35-44,Yes,True,Unsure,Depression,High,True,9-12
+P0989,Parent,35-44,Yes,False,Unsure,None,Low,True,13-17
+P0990,Parent,35-44,Want to but struggle,False,No,Academic Performance,Low,True,9-12
+P0991,Parent,35-44,Want to but struggle,True,Unsure,Insomnia,Medium,True,13-17
+P0992,Parent,35-44,No,True,Unsure,None,Low,True,13-17
+P0993,Parent,45-54,Yes,True,No,None,Medium,False,9-12
+P0994,Parent,45-54,Yes,True,No,Depression,Medium,True,13-17
+P0995,Parent,35-44,Yes,False,Unsure,None,Low,True,9-12
+P0996,Parent,45-54,Yes,False,Yes,Insomnia,Low,True,9-12
+P0997,Parent,45-54,Yes,True,No,None,Medium,True,13-17
+P0998,Parent,35-44,No,True,Unsure,Insomnia; Academic Performance,Medium,True,9-12
+P0999,Parent,35-44,Yes,False,Unsure,None,Low,True,13-17
+P1000,Parent,35-44,Want to but struggle,True,Unsure,Insomnia,Low,True,9-12
+P1001,Parent,35-44,Want to but struggle,True,No,Depression; Eating Disorders,Medium,False,13-17
+P1002,Parent,35-44,No,True,No,Academic Performance; Depression; Eating Disorders,Low,True,13-17
+P1003,Parent,45-54,No,True,No,Insomnia; Aggression,Low,False,13-17
+P1004,Parent,25-34,Yes,True,No,None,High,False,13-17
+P1005,Parent,45-54,Want to but struggle,True,No,Eating Disorders,Medium,False,13-17
+P1006,Parent,25-34,Want to but struggle,False,No,None,Medium,True,13-17
+P1007,Parent,45-54,Yes,True,No,Eating Disorders,Medium,True,13-17
+P1008,Parent,45-54,Want to but struggle,True,Unsure,Depression,Low,False,13-17
+P1009,Parent,45-54,No,True,Unsure,Insomnia; Academic Performance; Eating Disorders,Low,True,13-17
+P1010,Parent,45-54,Want to but struggle,True,No,Aggression,Low,False,13-17
+P1011,Parent,45-54,Yes,True,No,Academic Performance; Eating Disorders,High,False,13-17
+P1012,Parent,35-44,Want to but struggle,True,No,Eating Disorders; Aggression,Low,False,13-17
+P1013,Parent,45-54,Want to but struggle,True,Unsure,None,Low,True,13-17
+P1014,Parent,25-34,No,True,Unsure,None,Medium,True,9-12
+P1015,Parent,35-44,Yes,False,No,Insomnia; Academic Performance,Low,True,13-17
+P1016,Parent,45-54,Yes,False,No,Insomnia,Low,False,13-17
+P1017,Parent,35-44,Want to but struggle,True,Unsure,Insomnia; Academic Performance,Low,True,9-12
+P1018,Parent,25-34,Yes,False,No,Insomnia,Low,True,9-12
+P1019,Parent,35-44,No,False,Unsure,Insomnia; Eating Disorders,Low,False,13-17
+P1020,Parent,45-54,Yes,True,Unsure,Insomnia; Depression,High,True,9-12
+P1021,Parent,35-44,Yes,True,No,Insomnia; Academic Performance; Eating Disorders,Medium,True,9-12
+P1022,Parent,35-44,Yes,True,No,None,Medium,True,9-12
+P1023,Parent,35-44,Yes,False,No,None,Medium,True,13-17
+P1024,Parent,35-44,Yes,False,No,Academic Performance,Low,True,13-17
+P1025,Parent,35-44,Yes,True,No,None,Medium,True,13-17
+P1026,Parent,35-44,Want to but struggle,True,Unsure,Depression,Low,False,13-17
+P1027,Parent,35-44,Yes,False,No,Insomnia,Low,True,13-17
+P1028,Parent,35-44,Want to but struggle,False,No,Academic Performance; Depression,Low,False,9-12
+P1029,Parent,45-54,Want to but struggle,True,Unsure,None,Low,False,9-12
+P1030,Parent,45-54,No,True,No,Insomnia; Depression; Aggression,Low,False,13-17
+P1031,Parent,35-44,No,True,Unsure,Academic Performance,Low,False,9-12
+P1032,Parent,35-44,Yes,True,Unsure,Insomnia,High,True,13-17
+P1033,Parent,45-54,Yes,True,Unsure,None,Medium,False,9-12
+P1034,Parent,35-44,Want to but struggle,False,Unsure,Aggression,Low,False,9-12
+P1035,Parent,35-44,No,True,No,None,Low,True,13-17
+P1036,Parent,35-44,Yes,True,Yes,Insomnia; Academic Performance; Depression; Aggression,Medium,False,9-12
+P1037,Parent,35-44,Yes,True,Unsure,Insomnia,Medium,False,13-17
+P1038,Parent,25-34,Yes,True,Yes,Insomnia,Medium,False,9-12
+P1039,Parent,35-44,Yes,False,No,None,Low,False,13-17
+P1040,Parent,45-54,Want to but struggle,False,No,Academic Performance,Medium,True,13-17
+P1041,Parent,45-54,Want to but struggle,True,No,Insomnia; Depression,Low,True,13-17
+P1042,Parent,45-54,Yes,True,Unsure,None,High,False,13-17
+P1043,Parent,35-44,Yes,False,No,Depression,Medium,True,13-17
+P1044,Parent,35-44,Yes,True,No,None,High,False,9-12
+P1045,Parent,35-44,No,True,No,Eating Disorders,Low,False,13-17
+P1046,Parent,35-44,Want to but struggle,False,No,Insomnia; Academic Performance,Low,True,13-17
+P1047,Parent,45-54,Yes,True,Unsure,None,Medium,False,13-17
+P1048,Parent,45-54,Yes,True,Unsure,Insomnia,High,False,13-17
+P1049,Parent,35-44,Yes,False,No,None,Low,False,9-12
+P1050,Parent,35-44,Want to but struggle,True,Unsure,Aggression,Low,True,9-12
+P1051,Parent,35-44,Want to but struggle,True,Unsure,Academic Performance; Eating Disorders,Low,False,13-17
+P1052,Parent,25-34,Yes,True,Unsure,Academic Performance; Depression,Medium,False,13-17
+P1053,Parent,25-34,No,True,Unsure,Depression,Medium,False,13-17
+P1054,Parent,35-44,Want to but struggle,False,No,Eating Disorders,Low,False,13-17
+P1055,Parent,25-34,Want to but struggle,False,No,Insomnia,Low,False,13-17
+P1056,Parent,35-44,Want to but struggle,False,No,Academic Performance,Low,False,13-17
+P1057,Parent,35-44,Want to but struggle,True,No,None,Low,True,13-17
+P1058,Parent,35-44,Want to but struggle,True,Unsure,Depression; Aggression,Low,True,9-12
+P1059,Parent,35-44,Want to but struggle,False,No,Eating Disorders; Aggression,Medium,True,13-17
+P1060,Parent,35-44,Want to but struggle,True,No,None,Low,True,13-17
+P1061,Parent,35-44,Want to but struggle,True,Unsure,Academic Performance,Low,True,13-17
+P1062,Parent,25-34,Yes,False,No,Aggression,Low,True,13-17
+P1063,Parent,35-44,Yes,True,No,Insomnia,Medium,False,9-12
+P1064,Parent,35-44,Yes,False,No,Academic Performance; Depression,Low,False,13-17
+P1065,Parent,35-44,Yes,False,No,Depression; Aggression,Low,False,13-17
+P1066,Parent,25-34,Yes,True,No,None,Medium,False,9-12
+P1067,Parent,35-44,Yes,True,Unsure,None,Medium,False,13-17
+P1068,Parent,45-54,Yes,True,No,Insomnia; Academic Performance,Medium,True,9-12
+P1069,Parent,45-54,Want to but struggle,True,Unsure,Depression; Aggression,Low,True,13-17
+P1070,Parent,35-44,Yes,False,Unsure,Insomnia; Academic Performance,Low,True,13-17
+P1071,Parent,25-34,Want to but struggle,False,Unsure,None,Low,False,13-17
+P1072,Parent,35-44,Yes,True,Unsure,None,Medium,True,13-17
+P1073,Parent,45-54,Yes,False,No,None,Low,True,13-17
+P1074,Parent,35-44,Want to but struggle,False,Unsure,None,Medium,True,9-12
+P1075,Parent,25-34,Want to but struggle,True,No,None,Low,False,13-17
+P1076,Parent,45-54,Yes,True,Unsure,Insomnia,Medium,False,13-17
+P1077,Parent,45-54,Yes,True,Unsure,None,High,True,9-12
+P1078,Parent,25-34,Yes,False,No,Insomnia,Low,True,13-17
+P1079,Parent,55+,Want to but struggle,True,Unsure,Depression,Medium,True,9-12
+P1080,Parent,45-54,Yes,True,Unsure,Academic Performance,High,True,9-12
+P1081,Parent,45-54,Yes,False,No,None,Low,True,9-12
+P1082,Parent,35-44,No,False,No,None,Medium,False,13-17
+P1083,Parent,45-54,Yes,False,No,None,Low,False,13-17
+P1084,Parent,35-44,Yes,True,No,None,Medium,False,13-17
+P1085,Parent,45-54,Yes,True,Unsure,Insomnia,High,False,13-17
+P1086,Parent,35-44,Want to but struggle,True,No,None,Medium,True,9-12
+P1087,Parent,45-54,Yes,True,No,Insomnia; Academic Performance; Depression,Medium,True,9-12
+P1088,Parent,35-44,Yes,True,Unsure,Depression,Medium,True,13-17
+P1089,Parent,35-44,Yes,False,Unsure,Insomnia; Academic Performance,Low,True,13-17
+P1090,Parent,35-44,Yes,True,Yes,None,High,False,9-12
+P1091,Parent,45-54,Want to but struggle,True,Unsure,Academic Performance; Eating Disorders,Low,False,13-17
+P1092,Parent,35-44,No,False,No,Academic Performance,Low,False,13-17
+P1093,Parent,45-54,Want to but struggle,False,No,None,Low,True,13-17
+P1094,Parent,55+,Yes,False,Unsure,Insomnia; Academic Performance; Eating Disorders,Low,False,9-12
+P1095,Parent,35-44,Want to but struggle,False,No,Insomnia; Depression; Aggression,Low,True,13-17
+P1096,Parent,35-44,Yes,True,No,Insomnia; Academic Performance,High,True,9-12
+P1097,Parent,35-44,Yes,False,No,Insomnia,Low,True,13-17
+P1098,Parent,35-44,Want to but struggle,True,No,None,Medium,True,13-17
+P1099,Parent,45-54,Want to but struggle,True,No,Insomnia; Depression,Medium,True,9-12
+P1100,Parent,35-44,Want to but struggle,False,No,Insomnia; Aggression,Low,False,13-17
+P1101,Parent,35-44,Yes,False,No,Academic Performance; Depression,Low,True,13-17
+P1102,Parent,35-44,Yes,True,Unsure,Academic Performance,High,True,9-12
+P1103,Parent,35-44,Yes,True,Yes,Insomnia,Medium,True,13-17
+P1104,Parent,35-44,Want to but struggle,False,No,Academic Performance; Depression; Aggression,Medium,False,13-17
+P1105,Parent,35-44,Yes,True,Unsure,Insomnia; Aggression,Medium,False,13-17
+P1106,Parent,45-54,Want to but struggle,False,No,Insomnia; Aggression,Low,True,13-17
+P1107,Parent,25-34,No,False,Unsure,Depression,Low,False,13-17
+P1108,Parent,35-44,Yes,False,Unsure,None,Medium,False,13-17
+P1109,Parent,25-34,Yes,True,Unsure,Insomnia; Academic Performance; Depression,High,True,13-17
+P1110,Parent,35-44,Want to but struggle,True,Unsure,Insomnia,Medium,True,9-12
+P1111,Parent,35-44,Want to but struggle,True,No,Insomnia; Academic Performance; Depression,Low,False,13-17
+P1112,Parent,25-34,Want to but struggle,False,No,None,Medium,False,9-12
+P1113,Parent,45-54,Want to but struggle,True,No,None,Low,True,13-17
+P1114,Parent,35-44,Yes,False,No,Insomnia,Low,True,9-12
+P1115,Parent,45-54,Want to but struggle,True,Unsure,None,Medium,False,9-12
+P1116,Parent,55+,Want to but struggle,False,No,None,Low,True,9-12
+P1117,Parent,55+,Want to but struggle,False,No,Aggression,Low,False,13-17
+P1118,Parent,45-54,Yes,True,No,Eating Disorders,High,False,9-12
+P1119,Parent,35-44,Yes,True,No,Academic Performance,Medium,False,13-17
+P1120,Parent,35-44,Want to but struggle,False,No,Insomnia; Academic Performance,Low,False,13-17
+P1121,Parent,35-44,Yes,True,No,Academic Performance,Medium,True,13-17
+P1122,Parent,35-44,Yes,True,No,None,Medium,True,9-12
+P1123,Parent,45-54,Yes,True,No,Depression,Medium,True,13-17
+P1124,Parent,25-34,Want to but struggle,True,Unsure,Depression,Low,False,9-12
+P1125,Parent,45-54,No,False,Unsure,Academic Performance,Low,True,13-17
+P1126,Parent,45-54,Yes,False,Unsure,Insomnia; Academic Performance; Eating Disorders,Medium,True,9-12
+P1127,Parent,35-44,Want to but struggle,True,No,Depression,Low,True,13-17
+P1128,Parent,35-44,Yes,False,No,Academic Performance,Low,False,9-12
+P1129,Parent,55+,Yes,True,No,Eating Disorders,Medium,False,13-17
+P1130,Parent,35-44,Want to but struggle,True,Unsure,Aggression,Medium,True,9-12
+P1131,Parent,35-44,Want to but struggle,False,Unsure,None,Low,False,9-12
+P1132,Parent,45-54,Want to but struggle,False,No,None,Low,True,9-12
+P1133,Parent,35-44,Yes,True,Unsure,Academic Performance; Eating Disorders,Medium,True,9-12
+P1134,Parent,35-44,Want to but struggle,True,No,None,Medium,False,13-17
+P1135,Parent,35-44,No,True,No,Insomnia,Low,False,9-12
+P1136,Parent,45-54,Yes,True,No,Depression,Medium,True,9-12
+P1137,Parent,35-44,Want to but struggle,True,No,Depression; Aggression,Low,True,9-12
+P1138,Parent,35-44,Want to but struggle,True,No,None,Low,False,13-17
+P1139,Parent,25-34,Yes,True,Unsure,Insomnia,Medium,True,9-12
+P1140,Parent,35-44,Yes,True,No,Eating Disorders,Medium,False,13-17
+P1141,Parent,45-54,Yes,True,No,Insomnia; Depression,Medium,True,9-12
+P1142,Parent,25-34,Yes,True,Unsure,Academic Performance,Medium,False,13-17
+P1143,Parent,35-44,Yes,True,No,Insomnia,High,False,13-17
+P1144,Parent,45-54,Want to but struggle,False,Unsure,Insomnia; Academic Performance; Depression,Medium,True,13-17
+P1145,Parent,45-54,Yes,True,Unsure,Insomnia; Academic Performance,High,True,13-17
+P1146,Parent,35-44,Yes,True,Unsure,None,Medium,False,9-12
+P1147,Parent,35-44,Want to but struggle,False,No,Insomnia,Medium,True,13-17
+P1148,Parent,35-44,Want to but struggle,True,Unsure,None,Low,True,13-17
+P1149,Parent,35-44,Want to but struggle,False,Unsure,Insomnia; Academic Performance; Depression; Eating Disorders,Low,True,13-17
+P1150,Parent,45-54,Want to but struggle,False,No,None,Low,True,9-12
+P1151,Parent,35-44,No,True,No,Depression,Low,True,13-17
+P1152,Parent,45-54,Want to but struggle,True,No,None,Medium,True,13-17
+P1153,Parent,35-44,Yes,False,No,Aggression,Low,False,13-17
+P1154,Parent,45-54,Yes,False,Yes,Depression,Low,True,13-17
+P1155,Parent,25-34,Yes,True,No,Academic Performance,Medium,False,13-17
+P1156,Parent,25-34,Yes,False,No,None,Medium,True,13-17
+P1157,Parent,35-44,Yes,False,Yes,Academic Performance; Depression,Low,True,13-17
+P1158,Parent,45-54,No,True,Unsure,None,Low,True,13-17
+P1159,Parent,35-44,Yes,True,No,Depression,Medium,True,13-17
+P1160,Parent,35-44,Want to but struggle,True,No,None,Low,True,13-17
+P1161,Parent,45-54,Yes,True,No,Academic Performance,High,False,13-17
+P1162,Parent,35-44,Yes,True,No,None,High,True,13-17
+P1163,Parent,35-44,Yes,False,No,Depression,Low,False,13-17
+P1164,Parent,35-44,Want to but struggle,True,No,None,Low,False,9-12
+P1165,Parent,45-54,No,True,No,None,Low,False,13-17
+P1166,Parent,35-44,Yes,True,Unsure,Eating Disorders,Medium,True,13-17
+P1167,Parent,35-44,Want to but struggle,True,No,Academic Performance,Medium,False,9-12
+P1168,Parent,35-44,Yes,True,No,Academic Performance; Depression,High,True,9-12
+P1169,Parent,45-54,Want to but struggle,True,No,Insomnia; Depression,Medium,False,9-12
+P1170,Parent,45-54,Yes,True,No,None,Medium,True,13-17
+P1171,Parent,25-34,Want to but struggle,False,Unsure,Academic Performance,Low,True,13-17
+P1172,Parent,35-44,Yes,True,Unsure,None,Medium,False,13-17
+P1173,Parent,35-44,Want to but struggle,True,Unsure,Depression; Eating Disorders,Low,True,13-17
+P1174,Parent,35-44,Yes,True,Unsure,None,Medium,True,13-17
+P1175,Parent,25-34,Yes,False,Unsure,Insomnia,Low,True,9-12
+P1176,Parent,35-44,Yes,True,Unsure,Depression,High,True,13-17
+P1177,Parent,25-34,Yes,True,Unsure,None,Medium,True,9-12
+P1178,Parent,35-44,Want to but struggle,True,No,Insomnia,Medium,True,13-17
+P1179,Parent,45-54,Want to but struggle,False,No,Academic Performance; Depression,Low,True,13-17
+P1180,Parent,45-54,Want to but struggle,True,No,None,Low,False,13-17
+P1181,Parent,45-54,Yes,False,Unsure,None,Medium,True,13-17
+P1182,Parent,35-44,Want to but struggle,False,No,Academic Performance; Depression,Medium,False,9-12
+P1183,Parent,35-44,Want to but struggle,True,Unsure,None,Medium,False,13-17
+P1184,Parent,45-54,No,False,No,None,Low,False,9-12
+P1185,Parent,45-54,No,True,Unsure,Depression,Low,False,13-17
+P1186,Parent,45-54,Want to but struggle,True,No,Insomnia,Medium,True,13-17
+P1187,Parent,35-44,Want to but struggle,True,No,Insomnia; Academic Performance,Low,True,13-17
+P1188,Parent,35-44,Want to but struggle,False,Unsure,None,Medium,True,9-12
+P1189,Parent,35-44,Want to but struggle,True,No,Aggression,Medium,True,13-17
+P1190,Parent,45-54,Yes,True,No,None,High,False,9-12
+P1191,Parent,35-44,Yes,True,Unsure,Insomnia; Academic Performance; Eating Disorders,High,True,13-17
+P1192,Parent,45-54,Want to but struggle,True,No,Depression; Eating Disorders,Low,True,13-17
+P1193,Parent,35-44,Yes,True,Unsure,Academic Performance,Medium,False,13-17
+P1194,Parent,35-44,Yes,True,No,Eating Disorders,High,False,9-12
+P1195,Parent,35-44,No,True,Unsure,Insomnia,Medium,True,13-17
+P1196,Parent,35-44,Yes,True,Yes,Depression; Eating Disorders,High,True,13-17
+P1197,Parent,45-54,Want to but struggle,True,No,Insomnia,Medium,True,13-17
+P1198,Parent,35-44,No,True,No,Insomnia; Academic Performance,Low,True,9-12
+P1199,Parent,35-44,Want to but struggle,True,No,Academic Performance,Low,True,9-12
+P1200,Parent,45-54,Yes,True,Unsure,Academic Performance; Depression,Medium,False,9-12
+P1201,Parent,35-44,Want to but struggle,False,No,None,Medium,False,13-17
+P1202,Parent,25-34,Want to but struggle,True,No,Academic Performance,Low,False,13-17
+P1203,Parent,35-44,Yes,True,No,Eating Disorders,High,True,13-17
+P1204,Parent,35-44,Want to but struggle,False,Unsure,None,Medium,False,13-17
+P1205,Parent,55+,Want to but struggle,True,Unsure,Academic Performance,Low,True,13-17
+P1206,Parent,35-44,Yes,True,Unsure,None,Medium,True,9-12
+P1207,Parent,35-44,Yes,True,No,Insomnia,Medium,True,9-12
+P1208,Parent,45-54,Yes,True,No,None,Medium,True,9-12
+P1209,Parent,35-44,Yes,True,No,Aggression,Medium,True,13-17
+P1210,Parent,35-44,Yes,False,No,Insomnia,Low,True,13-17
+P1211,Parent,45-54,Yes,True,No,Insomnia; Academic Performance,Medium,False,13-17
+P1212,Parent,45-54,Yes,True,Unsure,Insomnia; Academic Performance,Medium,False,13-17
+P1213,Parent,25-34,Want to but struggle,True,No,Insomnia,Medium,True,13-17
+P1214,Parent,35-44,Yes,True,Unsure,Depression; Aggression,High,True,13-17
+P1215,Parent,45-54,Want to but struggle,True,Unsure,None,Low,True,13-17
+P1216,Parent,35-44,Want to but struggle,False,No,Academic Performance; Eating Disorders,Medium,False,13-17
+P1217,Parent,35-44,Want to but struggle,True,Unsure,Depression; Eating Disorders,Low,True,13-17
+P1218,Parent,35-44,Yes,False,Yes,Insomnia,Low,False,13-17
+P1219,Parent,35-44,Yes,True,Unsure,Insomnia; Eating Disorders,Medium,False,13-17
+P1220,Parent,55+,Want to but struggle,False,Unsure,Academic Performance; Eating Disorders,Low,True,13-17
+P1221,Parent,35-44,No,True,No,Insomnia,Low,True,13-17
+P1222,Parent,45-54,Want to but struggle,True,Unsure,None,Low,True,13-17
+P1223,Parent,35-44,Yes,True,No,Insomnia,High,True,13-17
+P1224,Parent,25-34,Want to but struggle,True,No,Depression; Aggression,Low,False,13-17
+P1225,Parent,35-44,Want to but struggle,False,No,Eating Disorders,Medium,False,13-17
+P1226,Parent,35-44,Yes,True,No,Academic Performance,Medium,True,9-12
+P1227,Parent,35-44,Want to but struggle,True,No,Insomnia; Academic Performance,Medium,False,9-12
+P1228,Parent,25-34,Want to but struggle,False,No,None,Low,True,13-17
+P1229,Parent,45-54,Yes,True,Unsure,Insomnia,Medium,True,13-17
+P1230,Parent,55+,Yes,True,No,None,Medium,True,9-12
+P1231,Parent,35-44,Yes,True,Unsure,Insomnia; Depression,Medium,False,9-12
+P1232,Parent,35-44,Want to but struggle,False,Unsure,Eating Disorders,Low,True,9-12
+P1233,Parent,35-44,Want to but struggle,False,No,Insomnia,Low,True,13-17
+P1234,Parent,35-44,Yes,True,Yes,None,High,False,9-12
+P1235,Parent,35-44,Yes,False,Unsure,Depression,Medium,True,13-17
+P1236,Parent,35-44,Yes,False,No,Insomnia; Academic Performance; Eating Disorders,Low,True,9-12
+P1237,Parent,35-44,Yes,True,No,Academic Performance,Medium,False,13-17
+P1238,Parent,45-54,Want to but struggle,True,Unsure,Eating Disorders,Low,True,9-12
+P1239,Parent,45-54,Yes,False,Unsure,Insomnia; Aggression,Low,True,13-17
+P1240,Parent,25-34,Want to but struggle,True,Unsure,Depression,Medium,False,13-17
+P1241,Parent,45-54,Yes,True,No,None,Medium,True,13-17
+P1242,Parent,35-44,Yes,False,No,Insomnia,Low,True,13-17
+P1243,Parent,45-54,Want to but struggle,False,Unsure,None,Low,True,13-17
+P1244,Parent,35-44,Yes,False,No,None,Low,False,9-12
+P1245,Parent,45-54,Yes,False,No,None,Low,True,13-17
+P1246,Parent,35-44,Yes,False,No,None,Low,False,9-12
+P1247,Parent,35-44,Yes,False,Unsure,Academic Performance; Aggression,Medium,True,9-12
+P1248,Parent,45-54,No,False,No,Academic Performance; Aggression,Low,False,9-12
+P1249,Parent,35-44,Want to but struggle,True,No,Insomnia,Medium,True,13-17
+P1250,Parent,45-54,Yes,True,Unsure,Academic Performance,High,False,13-17
+P1251,Parent,35-44,No,True,Unsure,None,Low,False,13-17
+P1252,Parent,35-44,Want to but struggle,True,No,Insomnia,Low,False,13-17
+P1253,Parent,35-44,Want to but struggle,True,No,None,Low,False,9-12
+P1254,Parent,35-44,Want to but struggle,True,Unsure,Depression,Medium,False,13-17
+P1255,Parent,55+,Yes,False,Unsure,Academic Performance,Low,True,13-17
+P1256,Parent,45-54,Want to but struggle,True,No,Insomnia; Eating Disorders,Medium,True,13-17
+P1257,Parent,35-44,Want to but struggle,True,No,Insomnia,Medium,True,13-17
+P1258,Parent,45-54,Yes,False,Unsure,None,Medium,True,9-12
+P1259,Parent,35-44,Yes,True,No,None,Medium,False,13-17
+P1260,Parent,25-34,Yes,True,Unsure,Academic Performance; Eating Disorders,Medium,True,9-12
+P1261,Parent,35-44,Want to but struggle,True,No,None,Low,True,9-12
+P1262,Parent,25-34,Want to but struggle,False,No,None,Low,False,13-17
+P1263,Parent,35-44,Yes,True,Unsure,Academic Performance,High,True,13-17
+P1264,Parent,35-44,Want to but struggle,True,Unsure,None,Low,False,13-17
+P1265,Parent,35-44,Yes,False,Unsure,None,Medium,False,13-17
+P1266,Parent,45-54,Yes,True,Yes,Academic Performance,Medium,True,13-17
+P1267,Parent,45-54,Want to but struggle,False,No,Academic Performance,Low,False,9-12
+P1268,Parent,35-44,Want to but struggle,True,Unsure,Insomnia; Aggression,Medium,True,13-17
+P1269,Parent,35-44,Want to but struggle,True,No,None,Low,False,13-17
+P1270,Parent,45-54,Want to but struggle,True,Unsure,None,Low,False,13-17
+P1271,Parent,35-44,Yes,False,Unsure,Academic Performance; Depression,Medium,True,9-12
+P1272,Parent,35-44,Want to but struggle,True,Unsure,Academic Performance,Medium,True,13-17
+P1273,Parent,25-34,Yes,True,No,Insomnia; Depression; Eating Disorders,High,False,13-17
+P1274,Parent,35-44,Yes,True,No,None,High,False,9-12
+P1275,Parent,45-54,Yes,False,No,None,Low,False,9-12
+P1276,Parent,35-44,Yes,False,No,Academic Performance,Low,True,9-12
+P1277,Parent,35-44,Want to but struggle,True,No,None,Low,False,9-12
+P1278,Parent,55+,Want to but struggle,True,Unsure,Aggression,Low,True,13-17
+P1279,Parent,25-34,Want to but struggle,True,Unsure,Insomnia; Academic Performance,Low,False,9-12
+P1280,Parent,35-44,Yes,True,No,None,High,False,13-17
+P1281,Parent,45-54,Yes,False,No,None,Low,False,13-17
+P1282,Parent,35-44,Want to but struggle,True,Unsure,Insomnia; Academic Performance; Depression,Low,False,13-17
+P1283,Parent,35-44,Yes,True,No,Eating Disorders,Medium,True,9-12
+P1284,Parent,35-44,Want to but struggle,False,Yes,None,Low,True,13-17
+P1285,Parent,45-54,Want to but struggle,True,No,Insomnia; Eating Disorders,Low,True,13-17
+P1286,Parent,35-44,Want to but struggle,True,Unsure,Academic Performance,Medium,True,13-17
+P1287,Parent,45-54,Want to but struggle,True,No,Depression,Low,True,13-17
+P1288,Parent,35-44,No,True,No,Insomnia; Academic Performance,Low,True,13-17
+P1289,Parent,45-54,Want to but struggle,True,No,Depression; Eating Disorders,Low,False,9-12
+P1290,Parent,35-44,Yes,False,Unsure,Depression; Eating Disorders,Low,True,9-12
+P1291,Parent,35-44,Yes,False,Unsure,None,Low,True,9-12
+P1292,Parent,35-44,Yes,True,No,None,Medium,True,13-17
+P1293,Parent,35-44,Want to but struggle,True,Unsure,Aggression,Low,False,13-17
+P1294,Parent,45-54,No,False,Unsure,Academic Performance,Low,False,13-17
+P1295,Parent,35-44,Yes,False,Unsure,Insomnia,Medium,True,9-12
+P1296,Parent,35-44,Want to but struggle,False,Unsure,Academic Performance,Low,True,9-12
+P1297,Parent,35-44,Want to but struggle,False,Unsure,Insomnia,Medium,True,13-17
+P1298,Parent,45-54,Yes,False,Yes,Academic Performance,Medium,False,13-17
+P1299,Parent,35-44,Yes,False,Unsure,None,Medium,False,9-12
+P1300,Parent,35-44,No,False,Unsure,Insomnia,Medium,True,13-17
+P1301,Parent,35-44,Want to but struggle,True,No,Academic Performance,Low,True,13-17
+P1302,Parent,35-44,Yes,False,No,Insomnia; Academic Performance; Depression,Low,True,9-12
+P1303,Parent,25-34,Yes,True,No,None,Medium,True,13-17
+P1304,Parent,55+,Want to but struggle,True,No,Insomnia,Medium,True,13-17
+P1305,Parent,35-44,Yes,True,No,None,High,False,13-17
+P1306,Parent,35-44,Want to but struggle,False,No,None,Low,True,13-17
+P1307,Parent,45-54,Yes,False,No,Insomnia; Academic Performance,Medium,True,13-17
+P1308,Parent,35-44,Want to but struggle,True,No,Insomnia; Academic Performance,Medium,True,13-17
+P1309,Parent,45-54,Yes,True,No,None,High,False,13-17
+P1310,Parent,25-34,Yes,True,Unsure,None,High,False,9-12
+P1311,Parent,25-34,Yes,True,Yes,Insomnia,Medium,True,9-12
+P1312,Parent,35-44,Want to but struggle,False,No,Aggression,Low,False,13-17
+P1313,Parent,35-44,No,True,Unsure,Depression,Low,False,13-17
+P1314,Parent,35-44,No,False,Unsure,Insomnia; Eating Disorders; Aggression,Low,True,9-12
+P1315,Parent,25-34,Want to but struggle,False,Unsure,None,Low,False,13-17
+P1316,Parent,45-54,No,False,Unsure,Academic Performance; Aggression,Low,True,13-17
+P1317,Parent,35-44,Want to but struggle,False,No,Academic Performance; Aggression,Low,False,13-17
+P1318,Parent,35-44,Want to but struggle,False,No,Eating Disorders,Low,True,13-17
+P1319,Parent,45-54,Want to but struggle,True,No,None,Low,False,13-17
+P1320,Parent,35-44,No,False,No,Academic Performance; Aggression,Medium,True,9-12
+P1321,Parent,25-34,Want to but struggle,True,No,Aggression,Low,True,13-17
+P1322,Parent,35-44,Yes,True,No,Eating Disorders,Medium,True,13-17
+P1323,Parent,45-54,Yes,True,No,Insomnia; Academic Performance; Depression,Medium,False,9-12
+P1324,Parent,35-44,Yes,True,Unsure,None,High,True,9-12
+P1325,Parent,45-54,Yes,False,No,Academic Performance; Depression,Medium,False,13-17
+P1326,Parent,35-44,Want to but struggle,True,Unsure,None,Medium,False,13-17
+P1327,Parent,35-44,Want to but struggle,False,Unsure,Depression,Medium,True,9-12
+P1328,Parent,45-54,Want to but struggle,False,No,Depression,Low,True,13-17
+P1329,Parent,45-54,No,False,Unsure,Insomnia; Academic Performance,Medium,False,13-17
+P1330,Parent,35-44,Yes,False,Unsure,Academic Performance,Low,True,13-17
+P1331,Parent,25-34,Yes,False,No,Depression; Aggression,Low,True,9-12
+P1332,Parent,35-44,Yes,False,No,None,Low,True,13-17
+P1333,Parent,35-44,Want to but struggle,False,Unsure,None,Medium,False,9-12
+P1334,Parent,25-34,Yes,False,No,Insomnia; Academic Performance; Depression,Medium,True,13-17
+P1335,Parent,35-44,Yes,True,No,Academic Performance; Aggression,Medium,True,13-17
+P1336,Parent,35-44,No,False,No,None,Medium,True,9-12
+P1337,Parent,55+,Want to but struggle,False,Unsure,Aggression,Low,False,9-12
+P1338,Parent,45-54,Yes,False,No,Academic Performance; Depression; Eating Disorders,Medium,True,13-17
+P1339,Parent,45-54,Yes,False,No,Aggression,Low,False,13-17
+P1340,Parent,35-44,Yes,True,No,None,Medium,True,13-17
+P1341,Parent,45-54,Yes,True,Unsure,Academic Performance; Depression,Medium,False,13-17
+P1342,Parent,35-44,Want to but struggle,False,No,None,Low,False,9-12
+P1343,Parent,35-44,Yes,False,No,Insomnia,Medium,True,13-17
+P1344,Parent,45-54,Yes,True,No,Eating Disorders,Medium,False,9-12
+P1345,Parent,35-44,Want to but struggle,True,Unsure,Academic Performance; Aggression,Low,True,13-17
+P1346,Parent,45-54,Want to but struggle,True,No,None,Low,True,9-12
+P1347,Parent,35-44,No,True,No,Academic Performance; Aggression,Low,True,9-12
+P1348,Parent,25-34,Yes,False,No,Academic Performance; Aggression,Low,True,9-12
+P1349,Parent,35-44,Yes,True,No,Insomnia; Academic Performance; Eating Disorders,Medium,True,9-12
+P1350,Parent,45-54,Yes,True,No,Academic Performance,Medium,True,13-17
+P1351,Parent,35-44,Yes,True,No,Aggression,Medium,False,13-17
+P1352,Parent,35-44,Yes,False,No,Insomnia,Medium,True,9-12
+P1353,Parent,35-44,Want to but struggle,True,No,None,Low,True,13-17
+P1354,Parent,35-44,Want to but struggle,False,No,None,Medium,False,13-17
+P1355,Parent,35-44,Yes,True,Unsure,None,High,True,13-17
+P1356,Parent,45-54,Want to but struggle,True,No,None,Low,True,9-12
+P1357,Parent,45-54,Yes,True,No,Insomnia,Medium,True,13-17
+P1358,Parent,35-44,No,True,No,None,Low,False,9-12
+P1359,Parent,35-44,Want to but struggle,True,Unsure,Insomnia; Eating Disorders,Low,True,9-12
+P1360,Parent,35-44,Yes,True,No,Depression; Aggression,High,True,13-17
+P1361,Parent,35-44,Yes,False,Unsure,Insomnia; Depression,Low,True,13-17
+P1362,Parent,35-44,Yes,True,No,Insomnia,High,True,9-12
+P1363,Parent,35-44,Yes,False,No,None,Low,True,13-17
+P1364,Parent,35-44,Yes,True,No,Insomnia; Academic Performance,Medium,False,9-12
+P1365,Parent,45-54,Want to but struggle,False,No,Depression,Low,False,9-12
+P1366,Parent,35-44,Yes,True,Unsure,Insomnia; Academic Performance,High,True,9-12
+P1367,Parent,45-54,Yes,False,Unsure,Academic Performance,Medium,True,13-17
+P1368,Parent,35-44,Want to but struggle,False,Unsure,Aggression,Low,True,13-17
+P1369,Parent,35-44,Yes,False,No,None,Low,False,13-17
+P1370,Parent,45-54,Yes,True,No,None,High,False,9-12
+P1371,Parent,55+,No,True,Unsure,Insomnia; Academic Performance; Eating Disorders; Aggression,Low,True,9-12
+P1372,Parent,25-34,Want to but struggle,False,No,Academic Performance,Low,False,13-17
+P1373,Parent,45-54,Yes,False,Unsure,Insomnia; Academic Performance,Low,True,13-17
+P1374,Parent,35-44,Yes,False,No,None,Medium,True,13-17
+P1375,Parent,45-54,Yes,True,No,Insomnia,High,True,9-12
+P1376,Parent,35-44,Want to but struggle,False,Unsure,Academic Performance,Medium,False,13-17
+P1377,Parent,35-44,Yes,True,No,None,High,False,13-17
+P1378,Parent,55+,Yes,True,No,Eating Disorders; Aggression,Medium,True,13-17
+P1379,Parent,35-44,Want to but struggle,True,No,None,Medium,False,13-17
+P1380,Parent,45-54,Yes,True,No,None,Medium,True,13-17
+P1381,Parent,35-44,Yes,True,Unsure,Eating Disorders,Medium,False,9-12
+P1382,Parent,45-54,Yes,True,Unsure,Academic Performance,Medium,True,13-17
+P1383,Parent,35-44,Want to but struggle,True,No,Academic Performance; Depression; Aggression,Low,False,13-17
+P1384,Parent,45-54,No,True,No,Insomnia; Academic Performance,Low,True,9-12
+P1385,Parent,35-44,Yes,False,No,Insomnia; Academic Performance; Depression,Medium,False,13-17
+P1386,Parent,45-54,Yes,False,Unsure,Insomnia,Low,False,9-12
+P1387,Parent,35-44,Yes,True,No,Academic Performance,Medium,True,13-17
+P1388,Parent,35-44,Yes,False,No,Insomnia; Depression,Low,True,13-17
+P1389,Parent,35-44,Yes,False,No,Academic Performance; Aggression,Low,False,13-17
+P1390,Parent,45-54,Want to but struggle,True,Unsure,Insomnia; Aggression,Low,True,13-17
+P1391,Parent,25-34,No,False,Unsure,None,Low,False,13-17
+P1392,Parent,25-34,No,True,No,Insomnia,Medium,False,13-17
+P1393,Parent,35-44,Yes,True,No,Depression,High,True,13-17
+P1394,Parent,35-44,Want to but struggle,False,No,None,Medium,True,13-17
+P1395,Parent,45-54,Want to but struggle,True,No,None,Medium,True,13-17
+P1396,Parent,35-44,Yes,True,Unsure,Academic Performance,Medium,False,9-12
+P1397,Parent,35-44,Want to but struggle,True,No,Academic Performance,Medium,True,13-17
+P1398,Parent,35-44,Yes,False,No,Aggression,Medium,True,13-17
+P1399,Parent,35-44,Yes,True,No,Aggression,High,True,9-12
+P1400,Parent,35-44,Yes,True,No,None,High,False,13-17
+P1401,Parent,35-44,Yes,True,Unsure,None,Medium,True,13-17
+P1402,Parent,35-44,Yes,True,Yes,Insomnia; Academic Performance,High,True,13-17
+P1403,Parent,35-44,Yes,True,Unsure,None,Medium,False,13-17
+P1404,Parent,35-44,Yes,False,No,None,Medium,True,13-17
+P1405,Parent,35-44,Want to but struggle,True,No,Academic Performance; Eating Disorders,Low,False,13-17
+P1406,Parent,45-54,Yes,True,No,Insomnia; Eating Disorders,High,False,9-12
+P1407,Parent,35-44,Yes,True,No,Insomnia; Depression,High,False,13-17
+P1408,Parent,35-44,Yes,True,No,Depression,Medium,True,13-17
+P1409,Parent,35-44,Yes,True,No,Insomnia,Medium,True,13-17
+P1410,Parent,35-44,Yes,False,Unsure,None,Low,True,9-12
+P1411,Parent,55+,Yes,True,No,None,Medium,True,13-17
+P1412,Parent,35-44,Yes,True,No,None,Medium,False,13-17
+P1413,Parent,45-54,Want to but struggle,True,No,Aggression,Low,False,13-17
+P1414,Parent,45-54,Yes,False,No,Insomnia; Academic Performance; Depression; Aggression,Low,True,9-12
+P1415,Parent,45-54,Want to but struggle,True,No,None,Low,True,13-17
+P1416,Parent,45-54,Yes,True,No,None,Medium,True,13-17
+P1417,Parent,35-44,Want to but struggle,False,No,Aggression,Low,True,13-17
+P1418,Parent,35-44,Want to but struggle,True,No,Depression,Low,False,9-12
+P1419,Parent,45-54,Want to but struggle,False,No,None,Low,False,13-17
+P1420,Parent,45-54,Want to but struggle,False,Unsure,Eating Disorders,Low,False,9-12
+P1421,Parent,45-54,Yes,True,No,Eating Disorders,High,True,9-12
+P1422,Parent,35-44,Want to but struggle,True,No,Insomnia; Depression,Low,True,13-17
+P1423,Parent,25-34,Want to but struggle,True,No,Depression,Low,True,13-17
+P1424,Parent,35-44,Yes,True,No,None,High,True,13-17
+P1425,Parent,35-44,Yes,False,No,Academic Performance,Medium,True,13-17
+P1426,Parent,45-54,Want to but struggle,True,No,Insomnia,Medium,False,13-17
+P1427,Parent,35-44,Want to but struggle,True,Unsure,Academic Performance,Low,True,13-17
+P1428,Parent,45-54,Yes,True,No,Academic Performance,High,True,13-17
+P1429,Parent,35-44,Yes,True,No,Eating Disorders,Medium,True,13-17
+P1430,Parent,45-54,Want to but struggle,True,No,Academic Performance,Low,True,13-17
+P1431,Parent,35-44,Yes,True,No,Insomnia,Medium,True,13-17
+P1432,Parent,45-54,Yes,False,Unsure,Academic Performance; Depression; Aggression,Medium,False,13-17
+P1433,Parent,25-34,Yes,True,Unsure,Academic Performance; Eating Disorders,Medium,False,13-17
+P1434,Parent,35-44,Yes,True,No,Depression,High,True,13-17
+P1435,Parent,35-44,Want to but struggle,True,No,None,Low,False,13-17
+P1436,Parent,35-44,Yes,False,Yes,Insomnia,Low,False,13-17
+P1437,Parent,45-54,Yes,False,No,Academic Performance,Medium,True,9-12
+P1438,Parent,25-34,Want to but struggle,True,Unsure,Insomnia,Low,False,9-12
+P1439,Parent,25-34,No,False,Unsure,Insomnia; Academic Performance,Low,False,13-17
+P1440,Parent,35-44,Want to but struggle,True,Unsure,Insomnia; Eating Disorders,Low,True,13-17
+P1441,Parent,45-54,Want to but struggle,False,Unsure,Eating Disorders,Low,True,9-12
+P1442,Parent,35-44,Want to but struggle,True,No,Insomnia; Aggression,Low,True,9-12
+P1443,Parent,35-44,Want to but struggle,True,Unsure,Academic Performance; Eating Disorders,Low,False,13-17
+P1444,Parent,45-54,Yes,True,No,Insomnia,High,False,13-17
+P1445,Parent,45-54,Yes,True,No,None,High,False,13-17
+P1446,Parent,35-44,Yes,False,Unsure,None,Low,False,13-17
+P1447,Parent,25-34,Want to but struggle,True,Yes,Aggression,Low,True,13-17
+P1448,Parent,35-44,Want to but struggle,True,Unsure,Insomnia,Low,False,13-17
+P1449,Parent,35-44,Want to but struggle,False,No,None,Medium,False,13-17
+P1450,Parent,25-34,Yes,False,Unsure,Insomnia; Academic Performance; Eating Disorders,Medium,False,9-12
+P1451,Parent,35-44,Yes,True,No,Depression; Eating Disorders,High,False,13-17
+P1452,Parent,45-54,Yes,True,No,Insomnia,Medium,True,13-17
+P1453,Parent,35-44,Want to but struggle,True,No,Academic Performance; Aggression,Medium,True,9-12
+P1454,Parent,35-44,Yes,True,No,Academic Performance,Medium,False,13-17
+P1455,Parent,35-44,Want to but struggle,True,Yes,Insomnia; Depression; Eating Disorders,Medium,True,13-17
+P1456,Parent,35-44,Want to but struggle,True,No,None,Low,True,13-17
+P1457,Parent,35-44,Yes,False,No,Academic Performance,Low,True,13-17
+P1458,Parent,45-54,No,True,Unsure,Insomnia,Medium,False,9-12
+P1459,Parent,35-44,Want to but struggle,True,No,Insomnia,Low,False,13-17
+P1460,Parent,35-44,Yes,True,No,Insomnia,Medium,False,9-12
+P1461,Parent,45-54,Yes,True,No,Academic Performance,High,True,13-17
+P1462,Parent,45-54,Want to but struggle,True,No,Academic Performance,Low,False,13-17
+P1463,Parent,25-34,No,True,No,Insomnia,Low,True,13-17
+P1464,Parent,45-54,Want to but struggle,False,No,Insomnia,Low,False,9-12
+P1465,Parent,35-44,Yes,False,Unsure,None,Medium,True,13-17
+P1466,Parent,45-54,Yes,True,No,None,Medium,False,9-12
+P1467,Parent,25-34,Want to but struggle,True,No,None,Medium,True,13-17
+P1468,Parent,45-54,Want to but struggle,True,No,Insomnia,Low,True,9-12
+P1469,Parent,25-34,Yes,False,No,Insomnia,Low,False,9-12
+P1470,Parent,35-44,Want to but struggle,False,No,Insomnia; Academic Performance; Eating Disorders,Medium,False,13-17
+P1471,Parent,45-54,Want to but struggle,False,No,None,Low,True,9-12
+P1472,Parent,35-44,No,True,No,None,Low,False,13-17
+P1473,Parent,45-54,Want to but struggle,False,Yes,Depression; Eating Disorders,Low,True,13-17
+P1474,Parent,45-54,Yes,True,No,None,Medium,False,13-17
+P1475,Parent,35-44,Want to but struggle,True,Unsure,Academic Performance,Low,False,9-12
+P1476,Parent,35-44,Yes,False,No,None,Low,True,13-17
+P1477,Parent,35-44,Yes,True,Unsure,Insomnia,High,True,13-17
+P1478,Parent,35-44,Want to but struggle,True,Unsure,None,Medium,True,9-12
+P1479,Parent,45-54,Yes,True,Unsure,Insomnia,High,False,9-12
+P1480,Parent,45-54,Yes,True,No,None,High,False,9-12
+P1481,Parent,35-44,Want to but struggle,True,No,Insomnia; Depression,Low,True,13-17
+P1482,Parent,35-44,Want to but struggle,False,Yes,None,Low,True,13-17
+P1483,Parent,35-44,Yes,False,No,None,Medium,False,13-17
+P1484,Parent,45-54,Want to but struggle,True,No,Insomnia,Low,True,13-17
+P1485,Parent,35-44,Yes,False,No,Insomnia; Academic Performance,Low,False,13-17
+P1486,Parent,35-44,Want to but struggle,False,Unsure,Insomnia; Academic Performance,Low,False,13-17
+P1487,Parent,35-44,Yes,True,No,Insomnia; Academic Performance,Medium,False,13-17
+P1488,Parent,35-44,Want to but struggle,True,No,None,Low,True,13-17
+P1489,Parent,35-44,Want to but struggle,False,Unsure,Insomnia; Aggression,Medium,False,13-17
+P1490,Parent,45-54,Want to but struggle,False,Unsure,Insomnia; Academic Performance; Aggression,Medium,True,13-17
+P1491,Parent,35-44,Yes,True,Unsure,Insomnia; Academic Performance,High,False,13-17
+P1492,Parent,35-44,Want to but struggle,False,Unsure,Academic Performance,Low,True,13-17
+P1493,Parent,35-44,Yes,True,No,Aggression,High,False,9-12
+P1494,Parent,35-44,Yes,True,No,Insomnia; Academic Performance; Depression; Eating Disorders; Aggression,High,True,13-17
+P1495,Parent,45-54,Want to but struggle,True,Unsure,Academic Performance,Medium,True,9-12
+P1496,Parent,45-54,Want to but struggle,True,No,Insomnia,Medium,True,13-17
+P1497,Parent,35-44,Yes,True,Unsure,None,High,False,13-17
+P1498,Parent,45-54,Yes,False,No,None,Medium,False,9-12
+P1499,Parent,45-54,Yes,True,Unsure,Insomnia,High,True,9-12
+P1500,Parent,45-54,Yes,False,No,Academic Performance,Low,False,9-12
+P1501,Parent,25-34,Yes,True,No,Insomnia; Academic Performance,Medium,False,13-17
+P1502,Parent,45-54,No,False,No,None,Low,True,9-12
+P1503,Parent,35-44,Yes,False,No,Eating Disorders,Low,True,9-12
+P1504,Parent,35-44,Yes,False,Unsure,Depression,Low,False,13-17
+P1505,Parent,35-44,Want to but struggle,True,No,Insomnia; Depression,Medium,True,9-12
+P1506,Parent,45-54,Yes,True,No,Academic Performance; Eating Disorders,Medium,False,13-17
+P1507,Parent,35-44,Want to but struggle,True,Unsure,Academic Performance,Low,True,13-17
+P1508,Parent,25-34,Yes,True,No,None,Medium,True,9-12
+P1509,Parent,45-54,Want to but struggle,True,No,None,Low,False,13-17
+P1510,Parent,45-54,Want to but struggle,False,No,None,Low,False,13-17
+P1511,Parent,35-44,Yes,False,No,Insomnia; Academic Performance,Medium,False,13-17
+P1512,Parent,35-44,Yes,True,No,None,Medium,False,13-17
+P1513,Parent,55+,Yes,True,Unsure,None,High,True,13-17
+P1514,Parent,45-54,Want to but struggle,False,Unsure,Insomnia,Medium,False,13-17
+P1515,Parent,35-44,Want to but struggle,False,No,Eating Disorders,Low,True,9-12
+P1516,Parent,45-54,Want to but struggle,True,No,None,Low,False,13-17
+P1517,Parent,35-44,Yes,False,Unsure,Depression,Medium,True,13-17
+P1518,Parent,35-44,Yes,True,Unsure,None,Medium,False,13-17
+P1519,Parent,25-34,Want to but struggle,False,No,Academic Performance,Low,False,13-17
+P1520,Parent,35-44,Yes,True,No,Insomnia; Academic Performance,Medium,True,13-17
+P1521,Parent,25-34,Want to but struggle,True,Unsure,None,Low,True,13-17
+P1522,Parent,35-44,No,False,No,Insomnia; Academic Performance; Depression,Low,True,9-12
+P1523,Parent,35-44,Yes,False,No,Depression; Eating Disorders; Aggression,Low,True,13-17
+P1524,Parent,35-44,Yes,True,No,Aggression,Medium,False,13-17
+P1525,Parent,25-34,Yes,True,Unsure,Academic Performance,Medium,True,13-17
+P1526,Parent,45-54,Want to but struggle,False,Unsure,Academic Performance; Depression,Medium,True,9-12
+P1527,Parent,35-44,Yes,True,No,Academic Performance,Medium,True,13-17
+P1528,Parent,45-54,Yes,False,No,None,Low,True,9-12
+P1529,Parent,55+,No,True,No,None,Low,True,9-12
+P1530,Parent,35-44,Want to but struggle,True,Unsure,Insomnia; Depression,Low,False,9-12
+P1531,Parent,35-44,Want to but struggle,True,Unsure,Academic Performance,Medium,True,13-17
+P1532,Parent,45-54,Want to but struggle,False,No,Insomnia; Eating Disorders,Low,True,13-17
+P1533,Parent,35-44,Yes,True,Yes,Academic Performance; Depression,High,False,13-17
+P1534,Parent,35-44,Want to but struggle,True,No,Academic Performance,Low,False,13-17
+P1535,Parent,35-44,Want to but struggle,True,No,None,Medium,False,9-12
+P1536,Parent,35-44,Yes,True,No,Depression,Medium,False,13-17
+P1537,Parent,45-54,Yes,False,Yes,Eating Disorders,Low,True,9-12
+P1538,Parent,35-44,Want to but struggle,False,No,None,Medium,False,13-17
+P1539,Parent,45-54,No,True,No,Depression,Medium,False,13-17
+P1540,Parent,35-44,Want to but struggle,False,No,Academic Performance; Aggression,Low,True,13-17
+P1541,Parent,35-44,No,True,Yes,Academic Performance,Medium,True,13-17
+P1542,Parent,35-44,Want to but struggle,True,Unsure,None,Low,False,13-17
+P1543,Parent,35-44,Yes,False,Unsure,Academic Performance; Eating Disorders,Low,False,9-12
+P1544,Parent,35-44,Want to but struggle,True,Unsure,Academic Performance; Aggression,Low,False,9-12
+P1545,Parent,25-34,No,True,No,None,Low,False,13-17
+P1546,Parent,35-44,Yes,True,No,None,Medium,True,13-17
+P1547,Parent,35-44,Want to but struggle,True,Unsure,None,Medium,True,13-17
+P1548,Parent,35-44,No,False,No,None,Medium,True,13-17
+P1549,Parent,35-44,Want to but struggle,True,No,None,Low,False,13-17
+P1550,Parent,45-54,Yes,False,No,Insomnia; Aggression,Medium,False,9-12
+P1551,Parent,35-44,Yes,True,Unsure,None,Medium,False,9-12
+P1552,Parent,35-44,Yes,False,No,Insomnia,Low,False,9-12
+P1553,Parent,35-44,Yes,True,No,Academic Performance,Medium,True,9-12
+P1554,Parent,35-44,Want to but struggle,False,No,None,Medium,False,13-17
+P1555,Parent,45-54,Want to but struggle,False,Unsure,Insomnia; Eating Disorders,Low,True,13-17
+P1556,Parent,35-44,No,False,Unsure,Eating Disorders,Medium,True,13-17
+P1557,Parent,25-34,Yes,True,Unsure,Depression,Medium,False,13-17
+P1558,Parent,35-44,Want to but struggle,True,Yes,None,Low,False,13-17
+P1559,Parent,35-44,Want to but struggle,False,No,Academic Performance,Low,False,13-17
+P1560,Parent,45-54,Yes,True,No,Insomnia; Eating Disorders,Medium,True,9-12
+P1561,Parent,45-54,Yes,False,Unsure,Depression,Medium,False,13-17
+P1562,Parent,45-54,Yes,False,No,None,Low,True,13-17
+P1563,Parent,45-54,Want to but struggle,True,No,Eating Disorders,Low,False,9-12
+P1564,Parent,35-44,Yes,True,Unsure,Academic Performance,Medium,False,9-12
+P1565,Parent,35-44,Want to but struggle,False,Unsure,Academic Performance,Low,False,9-12
+P1566,Parent,45-54,Yes,True,No,None,High,False,13-17
+P1567,Parent,45-54,Want to but struggle,False,No,Insomnia,Low,False,13-17
+P1568,Parent,35-44,Yes,True,No,Academic Performance; Depression,Medium,True,13-17
+P1569,Parent,35-44,No,False,Unsure,None,Low,True,9-12
+P1570,Parent,45-54,Yes,False,No,Insomnia,Low,False,13-17
+P1571,Parent,35-44,Yes,True,Unsure,None,High,False,13-17
+P1572,Parent,35-44,Yes,True,Unsure,Insomnia; Academic Performance,High,False,9-12
+P1573,Parent,35-44,Yes,True,Unsure,Depression,Medium,False,13-17
+P1574,Parent,35-44,Yes,True,Unsure,Insomnia,High,False,9-12
+P1575,Parent,35-44,Want to but struggle,True,No,Depression,Low,False,9-12
+P1576,Parent,35-44,Yes,True,Unsure,Academic Performance,High,True,9-12
+P1577,Parent,35-44,Yes,False,Unsure,Depression,Low,True,13-17
+P1578,Parent,35-44,Yes,True,No,Academic Performance; Depression; Eating Disorders,Medium,False,13-17
+P1579,Parent,45-54,Want to but struggle,False,Unsure,Aggression,Medium,False,13-17
+P1580,Parent,35-44,Yes,False,No,Academic Performance,Medium,False,9-12
+P1581,Parent,45-54,Want to but struggle,True,No,None,Low,True,13-17
+P1582,Parent,35-44,Yes,False,No,None,Low,False,13-17
+P1583,Parent,45-54,No,True,No,None,Medium,True,13-17
+P1584,Parent,35-44,Yes,True,No,Academic Performance,Medium,False,13-17
+P1585,Parent,35-44,Yes,True,Unsure,None,High,False,13-17
+P1586,Parent,35-44,Yes,True,Unsure,None,High,True,13-17
+P1587,Parent,35-44,Yes,True,No,Depression,High,False,9-12
+P1588,Parent,45-54,No,True,No,Academic Performance; Eating Disorders,Medium,False,13-17
+P1589,Parent,25-34,Yes,True,No,Academic Performance,Medium,True,13-17
+P1590,Parent,45-54,Want to but struggle,True,No,Academic Performance; Depression,Low,True,9-12
+P1591,Parent,35-44,Want to but struggle,True,No,Academic Performance,Medium,False,13-17
+P1592,Parent,35-44,Yes,False,No,None,Low,True,9-12
+P1593,Parent,35-44,Yes,False,No,Insomnia; Academic Performance,Low,False,9-12
+P1594,Parent,25-34,Want to but struggle,False,No,Insomnia; Academic Performance; Depression,Low,False,9-12
+P1595,Parent,35-44,Yes,True,Unsure,Academic Performance,Medium,False,9-12
+P1596,Parent,35-44,Want to but struggle,True,No,Academic Performance,Low,True,9-12
+P1597,Parent,45-54,Yes,True,No,Insomnia,Medium,True,9-12
+P1598,Parent,35-44,Yes,True,Unsure,Insomnia,Medium,False,9-12
+P1599,Parent,35-44,No,True,Unsure,None,Medium,True,13-17
+P1600,Parent,45-54,Want to but struggle,False,No,Depression,Low,True,13-17
+P1601,Parent,35-44,Want to but struggle,True,Unsure,Depression,Low,True,13-17
+P1602,Parent,25-34,Yes,False,No,Insomnia; Academic Performance; Depression,Low,False,13-17
+P1603,Parent,35-44,No,True,No,Academic Performance,Low,True,9-12
+P1604,Parent,35-44,Yes,True,Unsure,Academic Performance,Medium,False,13-17
+P1605,Parent,45-54,Yes,True,No,Insomnia; Eating Disorders,Medium,True,13-17
+P1606,Parent,45-54,Want to but struggle,True,Unsure,None,Low,True,13-17
+P1607,Parent,35-44,Yes,True,No,Insomnia; Academic Performance; Depression,Medium,False,13-17
+P1608,Parent,35-44,Want to but struggle,True,Unsure,Academic Performance; Eating Disorders,Low,True,13-17
+P1609,Parent,35-44,Yes,True,Unsure,None,High,True,9-12
+P1610,Parent,35-44,Yes,True,Unsure,None,High,True,13-17
+P1611,Parent,35-44,Want to but struggle,True,No,None,Low,True,9-12
+P1612,Parent,35-44,Want to but struggle,True,Yes,Insomnia,Low,True,13-17
+P1613,Parent,45-54,No,True,No,Academic Performance; Depression,Low,True,9-12
+P1614,Parent,35-44,Yes,True,Unsure,Academic Performance,Medium,True,9-12
+P1615,Parent,35-44,Want to but struggle,True,Unsure,None,Medium,False,13-17
+P1616,Parent,35-44,Yes,True,No,Insomnia; Depression; Eating Disorders,High,True,9-12
+P1617,Parent,45-54,Want to but struggle,True,Unsure,None,Low,False,13-17
+P1618,Parent,45-54,Want to but struggle,True,Unsure,Aggression,Low,True,9-12
+P1619,Parent,45-54,Yes,True,No,Aggression,High,True,13-17
+P1620,Parent,45-54,Yes,False,No,None,Low,False,9-12
+P1621,Parent,35-44,Want to but struggle,False,Unsure,None,Low,False,13-17
+P1622,Parent,35-44,Yes,True,Yes,Eating Disorders,Medium,True,13-17
+P1623,Parent,35-44,No,False,No,None,Low,True,13-17
+P1624,Parent,35-44,Want to but struggle,True,No,Insomnia,Low,False,9-12
+P1625,Parent,35-44,Yes,True,No,Academic Performance; Eating Disorders,Medium,False,9-12
+P1626,Parent,45-54,Want to but struggle,True,No,Insomnia,Low,False,9-12
+P1627,Parent,45-54,Want to but struggle,True,No,Academic Performance,Medium,False,9-12
+P1628,Parent,35-44,No,True,Unsure,Aggression,Low,True,9-12
+P1629,Parent,35-44,Want to but struggle,False,No,Depression,Low,False,13-17
+P1630,Parent,35-44,No,False,No,Insomnia; Academic Performance,Low,False,9-12
+P1631,Parent,45-54,Yes,True,No,None,High,True,13-17
+P1632,Parent,45-54,Yes,False,No,Insomnia,Low,True,9-12
+P1633,Parent,45-54,Want to but struggle,True,Unsure,None,Low,False,13-17
+P1634,Parent,45-54,No,False,No,Academic Performance; Depression,Medium,True,13-17
+P1635,Parent,35-44,Yes,True,No,Academic Performance,Medium,True,9-12
