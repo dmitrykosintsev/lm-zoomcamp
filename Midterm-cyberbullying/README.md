@@ -5,6 +5,21 @@ As a teacher, I was looking into current problems that could be analysed and sol
 My goal is to achieve such accuracy that will allow teachers and parents to use the model in order to identify potential cases of cyberbullying.
 
 ## Data & EDA insights
+Script generate_data.py was used to produce the dataset. There are three outputs:
+- Responses from students
+- Responses from parents
+- Combined dataset
+
+I only used the first dataset, as responses from parents does not seem to add any value in identifying cyberbullying. For example, there is a huge awareness gap:
+
+- Actual cyberbullying rate: 45.6%
+
+- Parents who know: 3.4%
+
+- Awareness gap: 42.2%
+
+Therefore, I did not proceed with the parents dataset.
+
 There were many missing values due to the fact some variables only had values when experienced_cyberbullying was True. For details, check the notebook.
 
 ## Model choice
