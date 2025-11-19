@@ -1,0 +1,47 @@
+steps:
+  # Build Docker image
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'build'
+      - '-t'
+      - 'us-central1-docker.pkg.dev/$PROJECT_ID/cyberbullying-repo/cyberbullying-predict:$COMMIT_SHA'
+      - '.'
+
+  # Push to Artifact Registry
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'push'
+      - 'us-central1-docker.pkg.dev/$PROJECT_ID/cyberbullying-repo/cyberbullying-predict:$COMMIT_SHA'
+
+  # Deploy to Cloud Run
+  - name: 'gcr.io/cloud-builders/gke-deploy'
+    args:
+      - 'run'
+      - '--filename=.'
+      - '--image=us-central1-docker.pkg.dev/$PROJECT_ID/cyberbullying-repo/cyberbullying-predict:$COMMIT_SHA'
+      - '--location=us-central1'
+      - '--namespace=default'
+
+  # Deploy using gcloud run
+  - name: 'gcr.io/cloud-builders/gcloud'
+    args:
+      - 'run'
+      - 'deploy'
+      - '${_SERVICE_NAME}'
+      - '--image'
+      - 'us-central1-docker.pkg.dev/$PROJECT_ID/cyberbullying-repo/cyberbullying-predict:$COMMIT_SHA'
+      - '--region'
+      - '${_REGION}'
+      - '--platform'
+      - 'managed'
+      - '--allow-unauthenticated'
+
+images:
+  - 'us-central1-docker.pkg.dev/$PROJECT_ID/cyberbullying-repo/cyberbullying-predict:$COMMIT_SHA'
+
+substitutions:
+  _REGION: 'us-central1'
+  _SERVICE_NAME: 'cyberbullying-predict'
+
+options:
+  machineType: 'N1_HIGHCPU_8'

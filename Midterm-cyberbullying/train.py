@@ -11,7 +11,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.feature_extraction import DictVectorizer
 from sklearn.model_selection import train_test_split
 import pickle
-from typing import cast, BinaryIO
+import os
 
 # Function to process the Missing Not At Random values
 def preprocess_cyberbullying_data(df):
@@ -104,13 +104,12 @@ def preprocess_cyberbullying_data(df):
 
     return df
 
-def save_model(dv, rf):
-    # Saving the model
-    output_file = f'model_d=5_msl=50.bin'
+def save_model(dv, rf, models_dir='models'):
+    os.makedirs(models_dir, exist_ok=True)
+    output_file = f'{models_dir}/model_d=5_msl=50.bin'
 
     with open(output_file, 'wb') as f_out:
         # noinspection PyTypeChecker
-        # f_out = cast(BinaryIO, f_out)
         pickle.dump((dv, rf), f_out)
 
     print("Successfully saved model to disk")
