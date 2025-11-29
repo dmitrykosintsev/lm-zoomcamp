@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+.venv/
+/.idea/.gitignore
+/.idea/lm-zoomcamp.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
+/Homework files/Homework 5/uv.lock
+/.idea/jsLibraryMappings.xml
